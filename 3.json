@@ -1,0 +1,122 @@
+[
+  {
+    "instruction": "Provide a brief overview of Vels University.",
+    "context": null,
+    "response": "Vels Institute of Science, Technology & Advanced Studies (VISTAS) is a deemed-to-be university located in Chennai, Tamil Nadu. It offers undergraduate, postgraduate, and doctoral programs across various disciplines.",
+    "category": "general"
+  },
+  {
+    "instruction": "What is the location of Vels University?",
+    "context": null,
+    "response": "Vels University is located at Velan Nagar, P.V. Vaithialingam Road, Pallavaram, Chennai, Tamil Nadu, India.",
+    "category": "location"
+  },
+  {
+    "instruction": "When was Vels University established?",
+    "context": null,
+    "response": "Vels University was established in the year 1992.",
+    "category": "history"
+  },
+  {
+    "instruction": "What are some undergraduate programs offered by Vels University?",
+    "context": null,
+    "response": "Undergraduate programs offered include B.Tech in Computer Science, BBA in Aviation Management, B.Sc in Biotechnology, B.Com in Accounting and Finance, and B.Pharm.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have hostel facilities?",
+    "context": null,
+    "response": "Yes, Vels University provides hostel facilities for both boys and girls with basic amenities.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are some key facilities available on campus?",
+    "context": null,
+    "response": "The campus includes a library, laboratories, an auditorium, sports grounds, and a cafeteria.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Is Vels University recognized by any national bodies?",
+    "context": null,
+    "response": "Yes, Vels University is recognized by the UGC and approved by AICTE.",
+    "category": "recognition"
+  },
+  {
+    "instruction": "What are some postgraduate programs offered by Vels University?",
+    "context": null,
+    "response": "Postgraduate programs include M.Tech in Data Science, MBA in Human Resource Management, and M.Sc in Microbiology.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have a placement cell?",
+    "context": null,
+    "response": "Yes, Vels University has a career guidance and placement cell to assist students with employment opportunities.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the official website of Vels University?",
+    "context": null,
+    "response": "The official website of Vels University is https://www.velsuniv.ac.in.",
+    "category": "contact"
+  },
+  {
+    "instruction": "What is the accreditation status of Vels University?",
+    "context": null,
+    "response": "Vels University is accredited with an 'A' Grade by NAAC.",
+    "category": "recognition"
+  },
+  {
+    "instruction": "What extracurricular opportunities does Vels University offer?",
+    "context": null,
+    "response": "The university offers various clubs and societies for students to engage in extracurricular activities such as cultural events, sports, and workshops.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What kind of sports facilities are available at Vels University?",
+    "context": null,
+    "response": "Sports facilities include grounds for cricket and football, tennis courts, and a basic gymnasium.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University collaborate with international institutions?",
+    "context": null,
+    "response": "Yes, the university has collaborations with international institutions like the University of Wolverhampton, UK, and the University of Highlands and Islands, Scotland.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the admission contact details for Vels University?",
+    "context": null,
+    "response": "For admissions, you can contact +91-44-2266-2500 or email admissions@velsuniv.ac.in.",
+    "category": "contact"
+  },
+  {
+    "instruction": "What doctoral programs are available at Vels University?",
+    "context": null,
+    "response": "Doctoral programs include Ph.D. in Engineering, Management Studies, Biotechnology, and Computer Science.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What annual events are held at Vels University?",
+    "context": null,
+    "response": "The university hosts an annual cultural event, sports competitions, and academic conferences.",
+    "category": "events"
+  },
+  {
+    "instruction": "Does Vels University provide any online learning programs?",
+    "context": null,
+    "response": "Yes, the university offers online and distance learning options for some programs.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the student-to-faculty ratio at Vels University?",
+    "context": null,
+    "response": "The student-to-faculty ratio is designed to ensure personalized learning, but exact numbers vary by program.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Are scholarships available at Vels University?",
+    "context": null,
+    "response": "Yes, scholarships are offered based on academic performance and other criteria.",
+    "category": "student services"
+  }
+]
