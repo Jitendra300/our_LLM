@@ -1,0 +1,3021 @@
+[
+  {
+    "instruction": "Provide a brief overview of Vels University.",
+    "context": "",
+    "response": "Vels Institute of Science, Technology & Advanced Studies (VISTAS) is a deemed-to-be university located in Chennai, Tamil Nadu. It offers undergraduate, postgraduate, and doctoral programs across various disciplines.",
+    "category": "general"
+  },
+  {
+    "instruction": "What is the location of Vels University?",
+    "context": "",
+    "response": "Vels University is located at Velan Nagar, P.V. Vaithialingam Road, Pallavaram, Chennai, Tamil Nadu, India.",
+    "category": "location"
+  },
+  {
+    "instruction": "When was Vels University established?",
+    "context": "",
+    "response": "Vels University was established in the year 1992.",
+    "category": "history"
+  },
+  {
+    "instruction": "What are some undergraduate programs offered by Vels University?",
+    "context": "",
+    "response": "Undergraduate programs offered include B.Tech in Computer Science, BBA in Aviation Management, B.Sc in Biotechnology, B.Com in Accounting and Finance, and B.Pharm.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have hostel facilities?",
+    "context": "",
+    "response": "Yes, Vels University provides hostel facilities for both boys and girls with basic amenities.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are some key facilities available on campus?",
+    "context": "",
+    "response": "The campus includes a library, laboratories, an auditorium, sports grounds, and a cafeteria.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Is Vels University recognized by any national bodies?",
+    "context": "",
+    "response": "Yes, Vels University is recognized by the UGC and approved by AICTE.",
+    "category": "recognition"
+  },
+  {
+    "instruction": "What are some postgraduate programs offered by Vels University?",
+    "context": "",
+    "response": "Postgraduate programs include M.Tech in Data Science, MBA in Human Resource Management, and M.Sc in Microbiology.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have a placement cell?",
+    "context": "",
+    "response": "Yes, Vels University has a career guidance and placement cell to assist students with employment opportunities.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the official website of Vels University?",
+    "context": "",
+    "response": "The official website of Vels University is https://www.velsuniv.ac.in.",
+    "category": "contact"
+  },
+  {
+    "instruction": "What is the accreditation status of Vels University?",
+    "context": "",
+    "response": "Vels University is accredited with an 'A' Grade by NAAC.",
+    "category": "recognition"
+  },
+  {
+    "instruction": "What extracurricular opportunities does Vels University offer?",
+    "context": "",
+    "response": "The university offers various clubs and societies for students to engage in extracurricular activities such as cultural events, sports, and workshops.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What kind of sports facilities are available at Vels University?",
+    "context": "",
+    "response": "Sports facilities include grounds for cricket and football, tennis courts, and a basic gymnasium.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University collaborate with international institutions?",
+    "context": "",
+    "response": "Yes, the university has collaborations with international institutions like the University of Wolverhampton, UK, and the University of Highlands and Islands, Scotland.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the admission contact details for Vels University?",
+    "context": "",
+    "response": "For admissions, you can contact +91-44-2266-2500 or email admissions@velsuniv.ac.in.",
+    "category": "contact"
+  },
+  {
+    "instruction": "What doctoral programs are available at Vels University?",
+    "context": "",
+    "response": "Doctoral programs include Ph.D. in Engineering, Management Studies, Biotechnology, and Computer Science.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What annual events are held at Vels University?",
+    "context": "",
+    "response": "The university hosts an annual cultural event, sports competitions, and academic conferences.",
+    "category": "events"
+  },
+  {
+    "instruction": "Does Vels University provide any online learning programs?",
+    "context": "",
+    "response": "Yes, the university offers online and distance learning options for some programs.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the student-to-faculty ratio at Vels University?",
+    "context": "",
+    "response": "The student-to-faculty ratio is designed to ensure personalized learning, but exact numbers vary by program.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Are scholarships available at Vels University?",
+    "context": "",
+    "response": "Yes, scholarships are offered based on academic performance and other criteria.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the motto of Vels University?",
+    "context": "",
+    "response": "The motto of Vels University is 'Knowledge is Power.'",
+    "category": "general"
+  },
+  {
+    "instruction": "What types of research opportunities are available at Vels University?",
+    "context": "",
+    "response": "The university provides research opportunities through its doctoral programs and funded projects in fields like biotechnology, engineering, and management.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How is the campus life at Vels University?",
+    "context": "",
+    "response": "Campus life at Vels University is a mix of academics, extracurricular activities, and social events, providing a balanced environment for personal and professional growth.",
+    "category": "general"
+  },
+  {
+    "instruction": "Does Vels University offer transportation facilities?",
+    "context": "",
+    "response": "Yes, the university provides transportation facilities for students and staff from various parts of Chennai.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What is the medium of instruction at Vels University?",
+    "context": "",
+    "response": "The medium of instruction at Vels University is English for most programs.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Are internships mandatory in programs at Vels University?",
+    "context": "",
+    "response": "Yes, internships are mandatory for some programs to provide practical experience and industry exposure.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the fee structure at Vels University?",
+    "context": "",
+    "response": "The fee structure varies depending on the program and level of study. Detailed information is available on the university's official website.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "What are the working hours for the library at Vels University?",
+    "context": "",
+    "response": "The library is open from 8:00 AM to 8:00 PM on weekdays and reduced hours on weekends.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University provide industrial training programs?",
+    "context": "",
+    "response": "Yes, industrial training programs are part of the curriculum for many technical and professional courses.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the rules for hostel accommodation at Vels University?",
+    "context": "",
+    "response": "Hostel accommodation rules include maintaining discipline, adhering to curfew timings, and ensuring cleanliness. Specific guidelines are provided during admission.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What is the admission process at Vels University?",
+    "context": "",
+    "response": "The admission process involves submitting an application form online or offline, followed by eligibility verification and counseling or entrance exam for specific programs.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University have a dress code for students?",
+    "context": "",
+    "response": "Yes, some departments have a dress code or uniform policy, particularly for professional courses.",
+    "category": "student policies"
+  },
+  {
+    "instruction": "What is the primary focus of Vels University's academic programs?",
+    "context": "",
+    "response": "The academic programs focus on a balance between theoretical knowledge and practical application, preparing students for industry needs.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer evening or part-time courses?",
+    "context": "",
+    "response": "Yes, the university offers part-time and distance learning programs for working professionals in select disciplines.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Are there any student exchange programs at Vels University?",
+    "context": "",
+    "response": "Yes, the university has partnerships with international institutions for student exchange programs.",
+    "category": "international"
+  },
+  {
+    "instruction": "What is the placement record of Vels University?",
+    "context": "",
+    "response": "The university maintains a reasonable placement record with students placed in industries like IT, pharmaceuticals, and management. The placement percentage varies by program.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University conduct any entrance exams?",
+    "context": "",
+    "response": "Yes, Vels University conducts entrance exams for certain programs, including engineering and management.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "What kind of events does the university organize for students?",
+    "context": "",
+    "response": "Events include cultural fests, technical symposiums, guest lectures, workshops, and sports meets.",
+    "category": "events"
+  },
+  {
+    "instruction": "What are the anti-ragging measures in place at Vels University?",
+    "context": "",
+    "response": "The university has a strict anti-ragging policy in compliance with UGC guidelines. Committees are in place to address and prevent ragging incidents.",
+    "category": "student policies"
+  },
+  {
+    "instruction": "Does Vels University provide scholarships to students?",
+    "context": "",
+    "response": "Scholarships are provided based on merit, financial need, and other criteria. Details are available during the admission process.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the average class size at Vels University?",
+    "context": "",
+    "response": "Class sizes typically range from 30 to 60 students, depending on the program and level of study.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What dining options are available on campus?",
+    "context": "",
+    "response": "The campus has a cafeteria that serves a variety of meals and snacks at affordable prices.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University offer on-campus medical facilities?",
+    "context": "",
+    "response": "Yes, the university provides basic medical facilities and has a health center for students and staff.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What kind of extracurricular clubs are available at Vels University?",
+    "context": "",
+    "response": "Clubs include photography, robotics, music, drama, and entrepreneurship, among others.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University have an alumni network?",
+    "context": "",
+    "response": "Yes, the university has an active alumni network that connects graduates and organizes events and mentorship programs.",
+    "category": "alumni"
+  },
+  {
+    "instruction": "Are international students eligible to apply to Vels University?",
+    "context": "",
+    "response": "Yes, the university welcomes applications from international students and offers support services to help them adjust.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the transport options for reaching Vels University?",
+    "context": "",
+    "response": "The campus is accessible via road and public transport. It is located near Pallavaram, a well-connected area in Chennai.",
+    "category": "location"
+  },
+  {
+    "instruction": "What are the main disciplines of study at Vels University?",
+    "context": "",
+    "response": "The university offers programs in engineering, management, science, arts, pharmacy, and maritime studies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the research focus areas at Vels University?",
+    "context": "",
+    "response": "Research areas include biotechnology, data science, engineering innovations, and pharmaceutical sciences.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does Vels University provide financial aid for economically weaker sections?",
+    "context": "",
+    "response": "Yes, financial aid and fee concessions are available for eligible students from economically weaker sections.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the vision of Vels University?",
+    "context": "",
+    "response": "The vision of Vels University is to impart quality higher education and promote innovation and research for the betterment of society.",
+    "category": "general"
+  },
+  {
+    "instruction": "What is the mission of Vels University?",
+    "context": "",
+    "response": "The mission is to provide education and training to equip students with knowledge and skills to excel in their fields.",
+    "category": "general"
+  },
+  {
+    "instruction": "What is the size of the Vels University campus?",
+    "context": "",
+    "response": "The campus spans over 29 acres with modern facilities to support academics and extracurricular activities.",
+    "category": "general"
+  },
+  {
+    "instruction": "Does Vels University support startups?",
+    "context": "",
+    "response": "Yes, the university encourages entrepreneurship and provides incubation support for startups.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What types of engineering programs are offered at Vels University?",
+    "context": "",
+    "response": "Engineering programs include B.Tech in Civil, Mechanical, Computer Science, and Artificial Intelligence.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have accreditation for its pharmacy program?",
+    "context": "",
+    "response": "Yes, the pharmacy programs are approved by the Pharmacy Council of India (PCI).",
+    "category": "recognition"
+  },
+  {
+    "instruction": "What is the teaching methodology at Vels University?",
+    "context": "",
+    "response": "The university adopts a mix of lectures, case studies, projects, and industry-oriented training.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University conduct seminars and conferences?",
+    "context": "",
+    "response": "Yes, regular seminars, conferences, and workshops are conducted to enhance students' knowledge and exposure.",
+    "category": "events"
+  },
+  {
+    "instruction": "What is the attendance policy at Vels University?",
+    "context": "",
+    "response": "Students are required to maintain a minimum of 75% attendance to be eligible for exams.",
+    "category": "student policies"
+  },
+  {
+    "instruction": "What is the grading system followed by Vels University?",
+    "context": "",
+    "response": "The university follows a credit-based grading system for evaluation.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What cultural events are hosted by Vels University?",
+    "context": "",
+    "response": "Cultural events like annual day celebrations, inter-college fests, and talent shows are hosted on campus.",
+    "category": "events"
+  },
+  {
+    "instruction": "Does Vels University provide industry certifications?",
+    "context": "",
+    "response": "Yes, industry certifications and training programs are offered in collaboration with leading companies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What career counseling services does Vels University offer?",
+    "context": "",
+    "response": "The career guidance cell conducts counseling sessions, mock interviews, and resume-building workshops.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What types of master's programs are offered at Vels University?",
+    "context": "",
+    "response": "Master's programs include M.Tech, MBA, MCA, and M.Sc in various specializations.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What maritime programs are available at Vels University?",
+    "context": "",
+    "response": "Programs include B.Sc in Nautical Science and B.E. in Marine Engineering.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer scholarships for sports achievements?",
+    "context": "",
+    "response": "Yes, students with outstanding achievements in sports are eligible for scholarships.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What facilities are available for research scholars at Vels University?",
+    "context": "",
+    "response": "Research scholars have access to advanced laboratories, a digital library, and research grants.",
+    "category": "research"
+  },
+  {
+    "instruction": "How does Vels University ensure student safety on campus?",
+    "context": "",
+    "response": "The campus has 24/7 security personnel, CCTV surveillance, and a grievance cell for safety concerns.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What specializations are available in the MBA program at Vels University?",
+    "context": "",
+    "response": "MBA specializations include Finance, Marketing, Human Resources, and International Business.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have collaborations with industries?",
+    "context": "",
+    "response": "Yes, the university has collaborations with industries for internships, guest lectures, and placement opportunities.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Are there any part-time job opportunities for students at Vels University?",
+    "context": "",
+    "response": "The university provides part-time job opportunities through internships and campus work programs.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the duration of undergraduate programs at Vels University?",
+    "context": "",
+    "response": "Undergraduate programs typically span 3 to 4 years, depending on the course.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support differently-abled students?",
+    "context": "",
+    "response": "The university provides accessible infrastructure and special assistance for differently-abled students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What types of cultural societies exist at Vels University?",
+    "context": "",
+    "response": "Cultural societies include music, dance, literature, and drama clubs for students to showcase their talents.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University have a grievance redressal cell?",
+    "context": "",
+    "response": "Yes, a grievance redressal cell is in place to address students' academic and non-academic issues.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What financial support is available for research at Vels University?",
+    "context": "",
+    "response": "The university provides grants, fellowships, and access to external funding for research projects.",
+    "category": "research"
+  },
+  {
+    "instruction": "What sports tournaments does Vels University organize?",
+    "context": "",
+    "response": "The university organizes inter-department and inter-collegiate tournaments in cricket, basketball, and volleyball.",
+    "category": "events"
+  },
+  {
+    "instruction": "What is the student diversity like at Vels University?",
+    "context": "",
+    "response": "The university has a diverse student body, including students from different states and international students.",
+    "category": "general"
+  },
+  {
+    "instruction": "Does Vels University have a strong alumni network?",
+    "context": "",
+    "response": "Yes, the university boasts a robust alumni network that regularly contributes to mentoring and networking events.",
+    "category": "alumni"
+  },
+  {
+    "instruction": "What is the focus of the biotechnology program at Vels University?",
+    "context": "",
+    "response": "The biotechnology program focuses on genetic engineering, bioinformatics, and industrial biotechnology applications.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the language courses offered at Vels University?",
+    "context": "",
+    "response": "Vels University offers language courses in English, French, German, and Tamil, among others.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the key features of the hostel facilities at Vels University?",
+    "context": "",
+    "response": "The hostel facilities include furnished rooms, Wi-Fi, recreational areas, and 24/7 security.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University offer Ph.D. programs?",
+    "context": "",
+    "response": "Yes, the university offers Ph.D. programs in various disciplines such as science, engineering, and humanities.",
+    "category": "research"
+  },
+  {
+    "instruction": "What are the lab facilities like at Vels University?",
+    "context": "",
+    "response": "The university provides well-equipped labs for science, engineering, and computer studies, adhering to industry standards.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University offer distance education programs?",
+    "context": "",
+    "response": "Yes, the university offers distance education programs through its School of Distance Education.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the student-teacher ratio at Vels University?",
+    "context": "",
+    "response": "The student-teacher ratio varies by department but typically ranges between 15:1 to 20:1.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What specializations are available in the M.Tech program at Vels University?",
+    "context": "",
+    "response": "M.Tech specializations include Data Science, Artificial Intelligence, and Mechanical Engineering.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University celebrate national festivals?",
+    "context": "",
+    "response": "National festivals like Independence Day and Republic Day are celebrated with cultural programs and flag hoisting ceremonies.",
+    "category": "events"
+  },
+  {
+    "instruction": "What kind of community outreach programs does Vels University organize?",
+    "context": "",
+    "response": "The university organizes blood donation camps, environmental awareness drives, and rural education initiatives.",
+    "category": "community service"
+  },
+  {
+    "instruction": "Does Vels University offer dual degree programs?",
+    "context": "",
+    "response": "Yes, the university offers dual degree programs in select disciplines like management and science.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What maritime certifications are offered at Vels University?",
+    "context": "",
+    "response": "Certifications include STCW (Standards of Training, Certification, and Watchkeeping) and courses approved by the Directorate General of Shipping.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer career services for alumni?",
+    "context": "",
+    "response": "Yes, the university provides career counseling and networking opportunities for alumni.",
+    "category": "alumni"
+  },
+  {
+    "instruction": "What are the main recruitment sectors for Vels University graduates?",
+    "context": "",
+    "response": "Graduates are recruited in IT, healthcare, engineering, pharmaceuticals, and management sectors.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What are the sports facilities available at Vels University?",
+    "context": "",
+    "response": "The university has facilities for cricket, football, basketball, badminton, and a gymnasium.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What is the process for international student admissions at Vels University?",
+    "context": "",
+    "response": "International students can apply online, and their applications are evaluated based on academic credentials and English proficiency.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University have any on-campus dining options?",
+    "context": "",
+    "response": "Yes, the university has canteens offering hygienic and affordable meals and snacks.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What certifications are provided in the MBA program at Vels University?",
+    "context": "",
+    "response": "Certifications include digital marketing, business analytics, and leadership training modules.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What kind of cultural fests are held at Vels University?",
+    "context": "",
+    "response": "Fests like 'Vibrance' feature cultural performances, competitions, and celebrity appearances.",
+    "category": "events"
+  },
+  {
+    "instruction": "Does Vels University have a campus radio?",
+    "context": "",
+    "response": "Yes, the university operates a campus radio station for broadcasting educational and cultural content.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does Vels University support placements for students?",
+    "context": "",
+    "response": "The placement cell conducts training sessions, mock interviews, and connects students with recruiters.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What is the procedure for applying to Vels University's scholarships?",
+    "context": "",
+    "response": "Students need to fill out a scholarship application form and provide necessary documents such as academic records and financial details.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University offer exchange programs with international universities?",
+    "context": "",
+    "response": "Yes, the university has exchange programs with universities in countries like the UK, USA, and Australia.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the library resources at Vels University?",
+    "context": "",
+    "response": "The library has physical and digital resources, including journals, e-books, and databases like Scopus and IEEE.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What skill development programs are offered at Vels University?",
+    "context": "",
+    "response": "The university offers skill development in coding, public speaking, and personality development.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the fees for the undergraduate programs at Vels University?",
+    "context": "",
+    "response": "The fees vary based on the course. Engineering and pharmacy courses are relatively higher compared to arts and science programs.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University have a grievance portal for students?",
+    "context": "",
+    "response": "Yes, students can lodge grievances through the official portal or the grievance redressal cell.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the eligibility criteria for Vels University's law programs?",
+    "context": "",
+    "response": "Eligibility includes passing 10+2 exams with a minimum aggregate score. Admissions may also require an entrance test.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "What is the alumni engagement like at Vels University?",
+    "context": "",
+    "response": "The university organizes alumni meets, networking events, and mentorship programs to stay connected with its graduates.",
+    "category": "alumni"
+  },
+  {
+    "instruction": "What is the focus of the Vels University's School of Maritime Studies?",
+    "context": "",
+    "response": "The focus is on producing skilled maritime professionals through rigorous training and certification programs.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University conduct national-level competitions?",
+    "context": "",
+    "response": "Yes, the university conducts national-level competitions in robotics, management, and cultural events.",
+    "category": "events"
+  },
+  {
+    "instruction": "Does Vels University provide coaching for competitive exams?",
+    "context": "",
+    "response": "Yes, the university offers coaching for exams like GATE, GRE, and CAT through its training centers.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What sustainability initiatives does Vels University undertake?",
+    "context": "",
+    "response": "The university focuses on waste management, green energy projects, and tree plantation drives.",
+    "category": "community service"
+  },
+  {
+    "instruction": "What support does Vels University offer for student entrepreneurship?",
+    "context": "",
+    "response": "The university offers incubation support, mentorship, and funding opportunities for student-led startups.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the undergraduate engineering programs offered at Vels University?",
+    "context": "",
+    "response": "Undergraduate engineering programs include Computer Science, Mechanical Engineering, Civil Engineering, and Electronics & Communication Engineering.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support women students?",
+    "context": "",
+    "response": "The university provides scholarships, women-specific hostels, self-defense workshops, and a women's grievance redressal cell.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University have industry collaborations?",
+    "context": "",
+    "response": "Yes, the university collaborates with companies like TCS, Wipro, and Infosys for internships, placements, and academic projects.",
+    "category": "industry"
+  },
+  {
+    "instruction": "What is the process to get transcripts from Vels University?",
+    "context": "",
+    "response": "Students can request transcripts online or through the registrar's office, along with payment of the required fee.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University offer transportation facilities?",
+    "context": "",
+    "response": "Yes, the university has a fleet of buses providing transportation to students and staff across Chennai and nearby areas.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What extracurricular clubs exist at Vels University?",
+    "context": "",
+    "response": "Clubs include the Drama Club, Debate Society, Robotics Club, and Nature Club, catering to diverse student interests.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What programs are available under the School of Pharmacy at Vels University?",
+    "context": "",
+    "response": "Programs include B.Pharm, M.Pharm in specializations like Pharmaceutics and Pharmacology, and Ph.D. in pharmaceutical sciences.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the duration of the MBA program at Vels University?",
+    "context": "",
+    "response": "The MBA program is a two-year, full-time course with options for various specializations.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any certification programs?",
+    "context": "",
+    "response": "Yes, the university offers short-term certifications in fields like digital marketing, blockchain, and artificial intelligence.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What facilities are available at the Vels University library?",
+    "context": "",
+    "response": "The library provides a collection of textbooks, journals, research papers, digital resources, and reading rooms.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What is the application deadline for admissions at Vels University?",
+    "context": "",
+    "response": "Application deadlines vary by program, but most courses have deadlines in May or June for the academic year starting in July.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University offer scholarships for sports achievements?",
+    "context": "",
+    "response": "Yes, scholarships are available for students excelling in state or national-level sports competitions.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How does Vels University encourage innovation?",
+    "context": "",
+    "response": "The university encourages innovation through hackathons, incubation centers, and collaborative projects with industry leaders.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the research opportunities available for students?",
+    "context": "",
+    "response": "Students can work on funded projects, publish in journals, and participate in research collaborations with international universities.",
+    "category": "research"
+  },
+  {
+    "instruction": "What is the placement record of the School of Management at Vels University?",
+    "context": "",
+    "response": "The School of Management has a consistent placement rate of over 90% with recruiters from sectors like banking, IT, and consulting.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University have a student counseling center?",
+    "context": "",
+    "response": "Yes, a counseling center is available to support students' mental health and well-being.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the medium of instruction at Vels University?",
+    "context": "",
+    "response": "The medium of instruction is primarily English for all courses.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the unique features of the Vels University campus?",
+    "context": "",
+    "response": "The campus includes modern infrastructure, eco-friendly zones, and advanced learning facilities.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What is the annual cultural fest called at Vels University?",
+    "context": "",
+    "response": "The annual cultural fest is called 'Vibrance,' showcasing student talent in music, dance, and drama.",
+    "category": "events"
+  },
+  {
+    "instruction": "Does Vels University support startups through its incubation center?",
+    "context": "",
+    "response": "Yes, the incubation center provides mentorship, office space, and funding for student-led startups.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the career options after completing a BBA at Vels University?",
+    "context": "",
+    "response": "Graduates can pursue roles in marketing, finance, operations, or opt for higher studies like an MBA.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What kind of training is provided to students for placements?",
+    "context": "",
+    "response": "Students are given training in resume building, soft skills, and mock interviews to prepare for placements.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What is the credit system followed at Vels University?",
+    "context": "",
+    "response": "The university follows a Choice Based Credit System (CBCS) allowing flexibility in course selection.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the purpose of the anti-ragging committee at Vels University?",
+    "context": "",
+    "response": "The committee ensures a safe and ragging-free environment for all students on campus.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What facilities are available for physically challenged students at Vels University?",
+    "context": "",
+    "response": "Facilities include ramps, elevators, and accessible restrooms to ensure an inclusive environment.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How does Vels University handle student feedback?",
+    "context": "",
+    "response": "Student feedback is collected through surveys and regular interactions to improve teaching and campus facilities.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the alumni network strength of Vels University?",
+    "context": "",
+    "response": "The university boasts an extensive alumni network engaged in various industries worldwide.",
+    "category": "alumni"
+  },
+  {
+    "instruction": "Are there any study abroad programs at Vels University?",
+    "context": "",
+    "response": "Yes, the university partners with international institutions for student exchange and dual degree programs.",
+    "category": "international"
+  },
+  {
+    "instruction": "What is the focus of the M.Sc. Biotechnology program at Vels University?",
+    "context": "",
+    "response": "The program focuses on molecular biology, bioinformatics, and industrial applications of biotechnology.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How are the student accommodations at Vels University?",
+    "context": "",
+    "response": "Student accommodations are comfortable, offering single and shared rooms with basic amenities.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University offer summer internship programs?",
+    "context": "",
+    "response": "Yes, the university collaborates with industries to offer internships during summer breaks for practical learning.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What safety measures are in place on the Vels University campus?",
+    "context": "",
+    "response": "The campus is equipped with 24/7 security, surveillance cameras, and a dedicated safety team.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the major events hosted by the university each year?",
+    "context": "",
+    "response": "Major events include the annual cultural fest 'Vibrance,' sports meets, and technical symposiums.",
+    "category": "events"
+  },
+  {
+    "instruction": "What are the highlights of the School of Maritime Studies at Vels University?",
+    "context": "",
+    "response": "The School of Maritime Studies offers specialized courses in nautical science and marine engineering, accredited by the Directorate General of Shipping.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University provide financial aid for economically weaker students?",
+    "context": "",
+    "response": "Yes, financial aid is available through scholarships, fee concessions, and merit-based waivers for deserving students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What kind of dining facilities are available on campus?",
+    "context": "",
+    "response": "The campus offers hygienic cafeterias serving a variety of cuisines to cater to students' dietary preferences.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Are there options for evening or weekend classes at Vels University?",
+    "context": "",
+    "response": "Yes, the university offers flexible learning options like evening or weekend classes for working professionals.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the dress code policy for students?",
+    "context": "",
+    "response": "Some departments may require uniforms, while others encourage smart casuals. Formal attire is often recommended for presentations and events.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What health facilities are available on the Vels University campus?",
+    "context": "",
+    "response": "The campus has a health center offering basic medical care and first-aid services, along with a tie-up with nearby hospitals for emergencies.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Can students participate in community service activities?",
+    "context": "",
+    "response": "Yes, Vels University organizes regular community outreach programs, such as blood donation drives and literacy campaigns.",
+    "category": "student life"
+  },
+  {
+    "instruction": "How is the hostel fee structure at Vels University?",
+    "context": "",
+    "response": "The hostel fee structure varies based on room type, such as single or shared accommodations, and includes food and basic utilities.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the highlights of the MBA International Business program?",
+    "context": "",
+    "response": "The program includes global exposure through international internships, case studies, and guest lectures from industry leaders.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University conduct any entrance exams for admission?",
+    "context": "",
+    "response": "Yes, the university conducts VEE (Vels Entrance Exam) for certain programs, alongside accepting scores from national exams like NEET and JEE.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Are there research grants available at Vels University?",
+    "context": "",
+    "response": "Yes, faculty and students can apply for research grants from both national and international funding bodies.",
+    "category": "research"
+  },
+  {
+    "instruction": "What languages are taught in the School of Languages at Vels University?",
+    "context": "",
+    "response": "Languages such as English, Tamil, French, and Hindi are offered, along with advanced programs in linguistics and literature.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What sports facilities does Vels University offer?",
+    "context": "",
+    "response": "Facilities include grounds for cricket, football, basketball courts, and indoor spaces for badminton and table tennis.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Are there study materials available online for Vels University students?",
+    "context": "",
+    "response": "Yes, the university provides e-resources like e-books, journals, and video lectures through its online learning platforms.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What career counseling services are available?",
+    "context": "",
+    "response": "Career counseling sessions are conducted to help students identify their strengths and explore career opportunities.",
+    "category": "placements"
+  },
+  {
+    "instruction": "How does the university handle international student admissions?",
+    "context": "",
+    "response": "The International Office assists with admissions, visa processes, and onboarding for international students.",
+    "category": "international"
+  },
+  {
+    "instruction": "What type of events are held during 'Vibrance,' the annual fest?",
+    "context": "",
+    "response": "Events include dance competitions, music battles, fashion shows, literary debates, and gaming tournaments.",
+    "category": "events"
+  },
+  {
+    "instruction": "What is the student-faculty ratio at Vels University?",
+    "context": "",
+    "response": "The university maintains a healthy student-faculty ratio of around 15:1 to ensure personalized attention.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer part-time Ph.D. programs?",
+    "context": "",
+    "response": "Yes, part-time Ph.D. programs are available for working professionals in various disciplines.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the accreditation status of Vels University?",
+    "context": "",
+    "response": "Vels University is accredited by NAAC with an 'A' grade and recognized by UGC.",
+    "category": "general"
+  },
+  {
+    "instruction": "How are students assessed during their course?",
+    "context": "",
+    "response": "Assessments include a mix of written exams, practical evaluations, and project-based submissions.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What environmental initiatives are taken by the university?",
+    "context": "",
+    "response": "Initiatives include a green campus drive, solar-powered buildings, and waste recycling systems.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What placement support is provided to engineering students?",
+    "context": "",
+    "response": "Engineering students receive placement training, industrial exposure, and assistance through campus placement drives.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University host alumni meetups?",
+    "context": "",
+    "response": "Yes, annual alumni meets are held to foster networking and engagement between alumni and current students.",
+    "category": "alumni"
+  },
+  {
+    "instruction": "What facilities are available in the computer labs?",
+    "context": "",
+    "response": "Computer labs are equipped with high-speed internet, advanced software, and systems with the latest configurations.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Are there any skill development programs?",
+    "context": "",
+    "response": "Skill development programs include training in soft skills, coding boot camps, and certification courses in emerging technologies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does the university encourage entrepreneurship?",
+    "context": "",
+    "response": "Entrepreneurship is encouraged through workshops, startup challenges, and mentoring by industry experts.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does the university host any international conferences?",
+    "context": "",
+    "response": "Yes, international conferences are hosted annually to promote academic and research excellence.",
+    "category": "events"
+  },
+  {
+    "instruction": "What is the eligibility for a B.Com program at Vels University?",
+    "context": "",
+    "response": "Eligibility requires completion of 10+2 with a minimum aggregate percentage as prescribed by the university.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Are there any foreign language programs?",
+    "context": "",
+    "response": "Yes, students can enroll in short-term and long-term courses in foreign languages like French and German.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the process for applying to Vels University's undergraduate programs?",
+    "context": "",
+    "response": "Students can apply online through the university's portal, upload required documents, and appear for entrance exams if applicable.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "What kind of internships does Vels University support?",
+    "context": "",
+    "response": "The university collaborates with reputed companies and industries to provide internships that offer hands-on experience.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Are there any programs specifically for women students?",
+    "context": "",
+    "response": "Yes, there are initiatives like women-focused scholarships and safety awareness workshops to support women students.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What kinds of co-curricular activities are available for students?",
+    "context": "",
+    "response": "Students can participate in debates, quizzes, creative writing competitions, and dramatics clubs for holistic development.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer courses in emerging fields like Artificial Intelligence?",
+    "context": "",
+    "response": "Yes, specialized courses in AI, Machine Learning, and Data Science are offered under the engineering and computer science departments.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What transportation facilities are provided for day scholars?",
+    "context": "",
+    "response": "The university offers a fleet of buses connecting nearby cities and towns to ensure convenient travel for day scholars.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What measures are taken for campus security?",
+    "context": "",
+    "response": "Security measures include CCTV surveillance, security personnel, and restricted entry to ensure student safety.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does the university promote cultural diversity?",
+    "context": "",
+    "response": "Cultural diversity is promoted through international student exchanges, multicultural events, and celebrations of various festivals.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What is the role of the placement cell at Vels University?",
+    "context": "",
+    "response": "The placement cell conducts workshops, resume-building sessions, and on-campus recruitment drives to assist students in securing jobs.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Are there any fitness facilities available on campus?",
+    "context": "",
+    "response": "Yes, the university has a well-equipped gymnasium, yoga centers, and sports facilities to promote student fitness.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What types of scholarships does Vels University offer?",
+    "context": "",
+    "response": "Scholarships are available for merit-based achievements, economically weaker sections, and athletes.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University collaborate with international universities?",
+    "context": "",
+    "response": "Yes, the university has tie-ups with international institutions for exchange programs, dual degrees, and collaborative research.",
+    "category": "international"
+  },
+  {
+    "instruction": "How are practical sessions conducted in science courses?",
+    "context": "",
+    "response": "Practical sessions are conducted in state-of-the-art labs with advanced equipment and guided by experienced faculty.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What steps are taken for environmental sustainability on campus?",
+    "context": "",
+    "response": "Initiatives include tree plantations, rainwater harvesting, and the use of renewable energy resources.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does the university provide on-campus job opportunities?",
+    "context": "",
+    "response": "Yes, students can apply for part-time roles in departments like administration, library, and labs.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What is the scope of the Law programs at Vels University?",
+    "context": "",
+    "response": "Law programs focus on practical learning through moot courts, internships with law firms, and guest lectures by legal experts.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Are there any hostel facilities for international students?",
+    "context": "",
+    "response": "Yes, separate hostel facilities with international cuisine and dedicated support are available for international students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the benefits of joining clubs and societies at Vels University?",
+    "context": "",
+    "response": "Clubs and societies offer opportunities for networking, skill development, and pursuing hobbies alongside academics.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University organize study tours?",
+    "context": "",
+    "response": "Yes, study tours and industrial visits are regularly organized to enhance students' practical knowledge.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the main highlights of the university library?",
+    "context": "",
+    "response": "The library houses a vast collection of books, research papers, and digital resources accessible to all students and faculty.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the key courses offered under the School of Engineering?",
+    "context": "",
+    "response": "Key courses include Civil Engineering, Computer Science, Mechanical Engineering, and Electrical Engineering.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How are student grievances addressed at Vels University?",
+    "context": "",
+    "response": "A grievance redressal cell is in place to address student issues and ensure timely resolutions.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What online platforms does Vels University use for learning?",
+    "context": "",
+    "response": "Platforms like Moodle and Google Classroom are used for online learning and resource sharing.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does the university conduct entrepreneurship bootcamps?",
+    "context": "",
+    "response": "Yes, regular bootcamps are held to encourage innovation and entrepreneurial skills among students.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What are the fees for postgraduate programs?",
+    "context": "",
+    "response": "Fees vary depending on the program and include tuition, examination, and lab charges. Details are available on the university website.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "What types of industries hire from the university during placements?",
+    "context": "",
+    "response": "Industries include IT, manufacturing, banking, and healthcare, offering roles in both technical and managerial fields.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does the university have any student exchange programs?",
+    "context": "",
+    "response": "Yes, exchange programs are conducted with partner universities for global exposure and learning.",
+    "category": "international"
+  },
+  {
+    "instruction": "What role do alumni play in mentoring students?",
+    "context": "",
+    "response": "Alumni regularly mentor students through webinars, workshops, and one-on-one guidance sessions.",
+    "category": "alumni"
+  },
+  {
+    "instruction": "What recognition has Vels University achieved recently?",
+    "context": "",
+    "response": "Recent recognitions include awards for academic excellence and contributions to research and innovation.",
+    "category": "general"
+  },
+  {
+    "instruction": "How does Vels University support students with disabilities?",
+    "context": "",
+    "response": "The university provides accessible facilities like ramps, special software for visually impaired students, and a support team for academic assistance.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does the university offer any online degree programs?",
+    "context": "",
+    "response": "Yes, several degree programs are available online, including undergraduate and postgraduate courses in management and humanities.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does the university facilitate industry-academia partnerships?",
+    "context": "",
+    "response": "Vels University maintains strong ties with industries for research collaborations, internships, and guest lectures by industry experts.",
+    "category": "research"
+  },
+  {
+    "instruction": "What is the purpose of the Vels Innovation and Research Center?",
+    "context": "",
+    "response": "The Vels Innovation and Research Center supports research and development in emerging technologies and helps students with innovative projects.",
+    "category": "research"
+  },
+  {
+    "instruction": "What is the campus life like at Vels University?",
+    "context": "",
+    "response": "Campus life is vibrant, with numerous student clubs, events, fests, and facilities that promote both academic and extra-curricular activities.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What are the main subjects of the MBA program at Vels University?",
+    "context": "",
+    "response": "The MBA program covers subjects like Finance, Marketing, Operations, HR, and International Business, with opportunities for specialization.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What research opportunities are available for postgraduate students?",
+    "context": "",
+    "response": "Postgraduate students have access to research fellowships, projects under faculty supervision, and collaboration with industries.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does the university organize any hackathons?",
+    "context": "",
+    "response": "Yes, the university organizes hackathons in areas like coding, data science, and engineering to foster innovation and problem-solving.",
+    "category": "events"
+  },
+  {
+    "instruction": "How does the university support creative arts students?",
+    "context": "",
+    "response": "Students in creative arts are encouraged to participate in workshops, exhibitions, and theater productions organized on campus.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What is the policy on attendance at Vels University?",
+    "context": "",
+    "response": "Students are expected to maintain a minimum attendance of 75% to be eligible for exams, with exceptions made for medical reasons.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How are internships integrated into academic programs?",
+    "context": "",
+    "response": "Internships are integrated as part of the curriculum, with students required to complete an internship during their course of study.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the facilities for students who want to pursue research?",
+    "context": "",
+    "response": "Research facilities include well-equipped labs, access to research journals, and guidance from experienced faculty members.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does the university offer any skill development certifications?",
+    "context": "",
+    "response": "Yes, the university offers various certifications in soft skills, coding, digital marketing, and business management.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the campus infrastructure like at Vels University?",
+    "context": "",
+    "response": "The infrastructure includes modern classrooms, laboratories, auditoriums, sports facilities, and hostels with Wi-Fi connectivity.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What is the university's approach to experiential learning?",
+    "context": "",
+    "response": "Experiential learning is promoted through internships, live projects, industry visits, and fieldwork, offering hands-on experience.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have a student exchange program?",
+    "context": "",
+    "response": "Yes, the university has partnerships with international universities for student exchange programs, enhancing global exposure.",
+    "category": "international"
+  },
+  {
+    "instruction": "What is the procedure for applying for an MBA at Vels University?",
+    "context": "",
+    "response": "The procedure includes an online application, submission of academic records, and a personal interview or entrance exam.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Are there opportunities for part-time work for students?",
+    "context": "",
+    "response": "Yes, students can take up part-time work on campus in roles like teaching assistants, lab assistants, and administrative support.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How does the university support entrepreneurship?",
+    "context": "",
+    "response": "The university offers incubators, mentorship programs, and seed funding for students interested in starting their own ventures.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What industries recruit from Vels University for internships?",
+    "context": "",
+    "response": "Industries in IT, finance, marketing, manufacturing, and media recruit interns from the university, providing valuable industry exposure.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What are the eligibility criteria for the Ph.D. programs at Vels University?",
+    "context": "",
+    "response": "Candidates must have a master's degree in the relevant field with a minimum required percentage, followed by a research proposal.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Are there any student mentorship programs at Vels University?",
+    "context": "",
+    "response": "Yes, senior students and alumni mentor juniors through structured mentorship programs, offering academic and career guidance.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the accommodation options for students?",
+    "context": "",
+    "response": "Accommodation options include well-maintained hostels with both shared and single-room options, and a limited number of guesthouses for international students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University provide career development services?",
+    "context": "",
+    "response": "Yes, the university offers career counseling, resume writing workshops, interview preparation, and job placement assistance.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What is the approach to teaching at Vels University?",
+    "context": "",
+    "response": "The teaching approach combines lectures, practical sessions, case studies, and group discussions to provide a holistic learning experience.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does the university have any provisions for a sustainable campus?",
+    "context": "",
+    "response": "Yes, the university follows sustainable practices such as solar energy usage, water conservation, and waste management to maintain an eco-friendly campus.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the facilities available in the campus hostel?",
+    "context": "",
+    "response": "Hostels are equipped with Wi-Fi, recreational areas, laundry services, and round-the-clock security to ensure a comfortable stay.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Are there any international collaborations for research?",
+    "context": "",
+    "response": "Yes, the university collaborates with universities and research centers globally for joint research initiatives and exchange programs.",
+    "category": "research"
+  },
+  {
+    "instruction": "How can students access career counseling at Vels University?",
+    "context": "",
+    "response": "Students can visit the Career Services Office to book counseling sessions, participate in workshops, and explore career resources.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What kinds of sports tournaments are held at Vels University?",
+    "context": "",
+    "response": "The university hosts intra-college and inter-college tournaments in sports like cricket, basketball, volleyball, and athletics.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What are the scholarship opportunities for international students?",
+    "context": "",
+    "response": "International students are eligible for merit-based scholarships, fee waivers, and special concessions on tuition fees.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University offer distance learning options?",
+    "context": "",
+    "response": "Yes, the university provides a range of undergraduate and postgraduate programs through distance learning modes for greater flexibility.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the facilities available for science students at Vels University?",
+    "context": "",
+    "response": "Science students have access to state-of-the-art laboratories, research centers, and specialized equipment for their studies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does the university provide any financial aid?",
+    "context": "",
+    "response": "Yes, financial aid is available in the form of scholarships, fee concessions, and education loans for eligible students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the research focus of the Department of Computer Science?",
+    "context": "",
+    "response": "The department focuses on areas like Artificial Intelligence, Machine Learning, Cybersecurity, and Data Science for advanced research.",
+    "category": "research"
+  },
+  {
+    "instruction": "What kind of extracurricular activities does Vels University offer?",
+    "context": "",
+    "response": "Vels University offers extracurricular activities such as cultural festivals, sports competitions, debates, and leadership programs.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Are there any sports facilities at Vels University?",
+    "context": "",
+    "response": "Yes, the university offers sports facilities including football, basketball, badminton courts, and a gymnasium for students.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What is the university's policy on student attendance?",
+    "context": "",
+    "response": "The university maintains an attendance policy requiring a minimum of 75% attendance for students to sit for examinations, with flexibility in cases of illness.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in environmental science?",
+    "context": "",
+    "response": "Yes, the university offers undergraduate and postgraduate programs in Environmental Science, focusing on sustainability and conservation.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How are research projects funded at Vels University?",
+    "context": "",
+    "response": "Research projects at Vels University are funded through government grants, industry partnerships, and internal funding from the university itself.",
+    "category": "research"
+  },
+  {
+    "instruction": "What is the role of the Placement Cell at Vels University?",
+    "context": "",
+    "response": "The Placement Cell at Vels University works to connect students with potential employers, organizes job fairs, and provides interview preparation assistance.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What is the admission process for international students?",
+    "context": "",
+    "response": "International students can apply online through the university's website by submitting academic transcripts, passport details, and meeting other visa requirements.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "How does Vels University help with career development?",
+    "context": "",
+    "response": "Vels University provides career counseling, soft skills training, internships, and job placement support to assist students with their career development.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University have a student grievance redressal system?",
+    "context": "",
+    "response": "Yes, the university has a grievance redressal mechanism that addresses student complaints related to academics, facilities, and other issues.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Are there any research publications by faculty members at Vels University?",
+    "context": "",
+    "response": "Yes, faculty members frequently publish research papers in national and international journals, focusing on a wide range of disciplines.",
+    "category": "research"
+  },
+  {
+    "instruction": "What is the university's stance on sustainable development?",
+    "context": "",
+    "response": "Vels University follows sustainable practices in its operations, including energy conservation, waste management, and green campus initiatives.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does the university handle academic misconduct?",
+    "context": "",
+    "response": "Academic misconduct is taken seriously, and students found guilty may face penalties ranging from a warning to expulsion, depending on the severity of the violation.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the hostels like at Vels University?",
+    "context": "",
+    "response": "The university offers both men's and women's hostels, equipped with all essential amenities like Wi-Fi, study areas, and recreational spaces.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Are there any career fairs hosted at Vels University?",
+    "context": "",
+    "response": "Yes, the university regularly hosts career fairs where top companies from various sectors come to recruit students for internships and full-time positions.",
+    "category": "events"
+  },
+  {
+    "instruction": "What is the university's policy on plagiarism?",
+    "context": "",
+    "response": "Vels University has a strict anti-plagiarism policy, and students are expected to submit original work. Violations are dealt with according to university guidelines.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have any collaborations with foreign universities?",
+    "context": "",
+    "response": "Yes, the university has partnerships with several international universities for student exchange programs, collaborative research, and academic partnerships.",
+    "category": "international"
+  },
+  {
+    "instruction": "How does the university help students in preparing for competitive exams?",
+    "context": "",
+    "response": "Vels University offers specialized coaching for competitive exams, including placement training, aptitude tests, and mock interviews.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the eligibility for the PhD program in Computer Science?",
+    "context": "",
+    "response": "Candidates must have a master's degree in Computer Science or related fields, with a minimum percentage, and a strong research proposal.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Are there any opportunities for entrepreneurship at Vels University?",
+    "context": "",
+    "response": "Yes, the university provides opportunities for entrepreneurship through startup incubators, funding opportunities, and mentorship programs for student-led businesses.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer an MBA in healthcare management?",
+    "context": "",
+    "response": "Yes, the university offers an MBA program in healthcare management, focusing on the management of healthcare organizations and services.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the opportunities for students in creative writing?",
+    "context": "",
+    "response": "Students can participate in creative writing workshops, write for the university magazine, and attend literary events organized on campus.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer language courses?",
+    "context": "",
+    "response": "Yes, the university offers language courses in French, Spanish, and German, along with certification programs for students.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does the university support students in developing leadership skills?",
+    "context": "",
+    "response": "The university offers various leadership programs, student organizations, and opportunities for involvement in campus events to nurture leadership qualities.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What are the opportunities for international students at Vels University?",
+    "context": "",
+    "response": "International students can benefit from special scholarships, cultural exchange programs, and international internships organized by the university.",
+    "category": "international"
+  },
+  {
+    "instruction": "Are there any provisions for research grants at Vels University?",
+    "context": "",
+    "response": "Yes, the university offers research grants for faculty and students working on innovative projects in various fields.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does the university offer any programs in artificial intelligence?",
+    "context": "",
+    "response": "Yes, Vels University offers undergraduate and postgraduate programs in Artificial Intelligence, focusing on AI techniques and applications.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University encourage sustainability among students?",
+    "context": "",
+    "response": "The university promotes sustainability through green initiatives, awareness programs, and by involving students in environment-friendly activities and projects.",
+    "category": "student life"
+  },
+  {
+    "instruction": "How does Vels University help students with job placements?",
+    "context": "",
+    "response": "The university organizes placement drives, provides resume-building workshops, conducts mock interviews, and offers internship opportunities to enhance employability.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What research areas are focused on in the Department of Electronics and Communication?",
+    "context": "",
+    "response": "The department focuses on research in areas like wireless communication, embedded systems, VLSI design, and signal processing.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does Vels University offer a Bachelor’s program in Animation?",
+    "context": "",
+    "response": "Yes, the university offers a Bachelor’s program in Animation, focusing on 3D modeling, visual effects, and multimedia technologies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the university's policy on student conduct?",
+    "context": "",
+    "response": "Vels University expects students to maintain high standards of conduct, both academically and socially, with strict action taken against any violations.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Are there any student clubs at Vels University?",
+    "context": "",
+    "response": "Yes, there are various student clubs for interests like sports, music, dance, literature, entrepreneurship, and social welfare.",
+    "category": "student life"
+  },
+  {
+    "instruction": "How does Vels University support women students?",
+    "context": "",
+    "response": "The university provides a safe and supportive environment for women students through initiatives like women’s empowerment cells and counseling services.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University offer any study abroad opportunities?",
+    "context": "",
+    "response": "Yes, Vels University has collaborations with foreign universities for student exchange programs, summer internships, and research opportunities.",
+    "category": "international"
+  },
+  {
+    "instruction": "What is the student-faculty ratio at Vels University?",
+    "context": "",
+    "response": "The student-faculty ratio is designed to be favorable for personal attention, with smaller class sizes for better engagement and learning.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does the university have a library?",
+    "context": "",
+    "response": "Yes, the university has a well-equipped library with a vast collection of books, journals, e-resources, and study spaces for students.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the options for postgraduate courses in science at Vels University?",
+    "context": "",
+    "response": "The university offers various postgraduate courses in sciences like Physics, Chemistry, Biotechnology, and Environmental Science.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University provide any opportunities for research in the humanities?",
+    "context": "",
+    "response": "Yes, the university supports research in the humanities, including literature, history, philosophy, and social sciences, through research projects and publications.",
+    "category": "research"
+  },
+  {
+    "instruction": "How does Vels University support students during exams?",
+    "context": "",
+    "response": "The university provides exam preparation workshops, study materials, and stress management sessions to help students perform well in exams.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What type of degree programs are available at Vels University?",
+    "context": "",
+    "response": "Vels University offers a range of undergraduate, postgraduate, and doctoral programs across disciplines such as engineering, management, law, and the arts.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have a counseling center for students?",
+    "context": "",
+    "response": "Yes, the university provides a counseling center where students can seek guidance for academic, personal, and psychological concerns.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the university’s approach to promoting mental health among students?",
+    "context": "",
+    "response": "Vels University offers workshops, counseling sessions, and a mental health awareness program to support students' emotional well-being.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How does the university celebrate cultural diversity?",
+    "context": "",
+    "response": "Vels University celebrates cultural diversity through events like International Day, multicultural festivals, and by promoting inclusivity on campus.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University provide any support for students interested in research?",
+    "context": "",
+    "response": "Yes, the university offers research grants, dedicated research centers, mentorship from faculty, and access to academic journals for student research.",
+    "category": "research"
+  },
+  {
+    "instruction": "How does Vels University integrate technology into education?",
+    "context": "",
+    "response": "The university integrates technology through e-learning platforms, digital classrooms, and the use of software and apps for interactive learning.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the procedure for applying for a scholarship at Vels University?",
+    "context": "",
+    "response": "Students can apply for scholarships through the university's scholarship portal by submitting their academic records and financial documents.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "What industries recruit Vels University graduates?",
+    "context": "",
+    "response": "Graduates are recruited by industries in sectors like IT, healthcare, engineering, finance, media, and hospitality, among others.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What is the student exchange program at Vels University?",
+    "context": "",
+    "response": "The student exchange program allows students to spend a semester or year at partner universities abroad, experiencing new cultures and academic systems.",
+    "category": "international"
+  },
+  {
+    "instruction": "Does Vels University provide any courses on entrepreneurship?",
+    "context": "",
+    "response": "Yes, the university offers specialized courses on entrepreneurship, innovation, and startup management, with opportunities for hands-on experience.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What kind of mentoring does Vels University provide to its students?",
+    "context": "",
+    "response": "The university provides academic mentoring, career counseling, and peer mentoring to ensure students receive guidance and support throughout their education.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How does Vels University promote environmental consciousness among students?",
+    "context": "",
+    "response": "The university promotes sustainability through green campus initiatives, environmental awareness programs, and encourages students to engage in eco-friendly practices.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University have a dedicated department for innovation?",
+    "context": "",
+    "response": "Yes, Vels University has an Innovation Department that focuses on fostering creativity, research, and entrepreneurship among students and faculty.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does the university offer any certificate courses?",
+    "context": "",
+    "response": "Yes, Vels University offers certificate courses in fields like digital marketing, data analytics, programming languages, and business management.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the atmosphere like in the university campus?",
+    "context": "",
+    "response": "The campus atmosphere is vibrant and lively, with a mix of academic, cultural, and recreational activities that create an engaging student experience.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What does the university do to promote student safety?",
+    "context": "",
+    "response": "The university ensures student safety by providing 24/7 security, CCTV surveillance, and emergency response systems on campus.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University offer a degree in law?",
+    "context": "",
+    "response": "Yes, Vels University offers an undergraduate degree in law (BA LLB) and postgraduate law programs, focusing on legal theory and practice.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does the university support students in networking with professionals?",
+    "context": "",
+    "response": "The university organizes guest lectures, alumni meetups, industry events, and workshops that offer students opportunities to network with professionals.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University have a student council?",
+    "context": "",
+    "response": "Yes, the student council at Vels University plays an active role in organizing events, addressing student issues, and fostering leadership among students.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer programs in the field of hospitality management?",
+    "context": "",
+    "response": "Yes, the university offers programs in hospitality management, including courses in hotel operations, event management, and tourism studies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the key features of Vels University’s MBA program?",
+    "context": "",
+    "response": "The MBA program at Vels University emphasizes leadership, strategic management, and practical business skills through case studies, internships, and live projects.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University ensure the quality of its education?",
+    "context": "",
+    "response": "The university ensures quality education through a robust curriculum, experienced faculty, continuous assessment, and industry collaboration.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What does Vels University offer in terms of innovation and startups?",
+    "context": "",
+    "response": "Vels University has an innovation hub that provides resources, mentorship, and funding for student-led startups and entrepreneurial ventures.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University provide any sports scholarships?",
+    "context": "",
+    "response": "Yes, the university offers sports scholarships for students who excel in athletics, encouraging them to participate in competitive sports while pursuing their studies.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the student support system like at Vels University?",
+    "context": "",
+    "response": "The student support system includes counseling services, academic advising, mentorship programs, and workshops to help students succeed both academically and personally.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Are there any research opportunities for students at Vels University?",
+    "context": "",
+    "response": "Yes, students at Vels University can engage in research projects across disciplines, with opportunities to publish papers, present at conferences, and collaborate with faculty on various initiatives.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does Vels University have a transport system for students?",
+    "context": "",
+    "response": "Yes, the university provides a transport system with buses that run on scheduled routes, ensuring easy access to campus for students residing off-campus.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does Vels University support students with disabilities?",
+    "context": "",
+    "response": "The university provides accessibility services such as special seating arrangements, ramps, and assistance during exams for students with disabilities.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the university’s stance on research ethics?",
+    "context": "",
+    "response": "Vels University adheres to strict research ethics guidelines, ensuring that all research is conducted with integrity, transparency, and respect for intellectual property.",
+    "category": "research"
+  },
+  {
+    "instruction": "What extracurricular programs does Vels University offer for engineering students?",
+    "context": "",
+    "response": "For engineering students, Vels University offers extracurricular programs such as robotics clubs, coding competitions, technical workshops, and innovation challenges.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What is the structure of the law program at Vels University?",
+    "context": "",
+    "response": "The law program at Vels University is a five-year integrated BA LLB program, covering subjects in constitutional law, criminal law, civil law, and legal research.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer part-time or evening programs?",
+    "context": "",
+    "response": "Yes, the university offers part-time and evening programs in select disciplines, allowing working professionals to pursue their studies while maintaining their careers.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have an alumni network?",
+    "context": "",
+    "response": "Yes, Vels University has a strong alumni network that offers mentorship, networking opportunities, and support for current students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What opportunities are there for students to engage with the local community?",
+    "context": "",
+    "response": "The university encourages students to engage with the local community through social service initiatives, volunteer programs, and collaborations with local organizations.",
+    "category": "student life"
+  },
+  {
+    "instruction": "How does Vels University incorporate digital learning into its programs?",
+    "context": "",
+    "response": "Vels University incorporates digital learning through online courses, e-learning platforms, virtual classrooms, and digital resources for enhanced learning experiences.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the role of the university’s innovation and entrepreneurship center?",
+    "context": "",
+    "response": "The innovation and entrepreneurship center at Vels University fosters creativity and innovation, helping students and faculty turn their ideas into viable businesses.",
+    "category": "research"
+  },
+  {
+    "instruction": "How does Vels University prepare students for global careers?",
+    "context": "",
+    "response": "Vels University prepares students for global careers through international exposure, collaboration with global institutions, and career services that focus on global job opportunities.",
+    "category": "international"
+  },
+  {
+    "instruction": "Does the university provide any internships for students?",
+    "context": "",
+    "response": "Yes, Vels University provides opportunities for internships through industry partnerships and a dedicated placement cell that connects students with companies for real-world work experience.",
+    "category": "placements"
+  },
+  {
+    "instruction": "How does Vels University promote student wellness?",
+    "context": "",
+    "response": "The university promotes student wellness through fitness programs, mental health support, nutritional counseling, and stress-relief activities.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the teaching methodology used at Vels University?",
+    "context": "",
+    "response": "Vels University uses a combination of traditional lectures, interactive workshops, practical projects, and digital learning tools to enhance the student learning experience.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer online programs?",
+    "context": "",
+    "response": "Yes, Vels University offers a range of online programs in various fields, including business administration, computer science, and digital marketing.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What kind of research facilities does the university provide?",
+    "context": "",
+    "response": "Vels University provides research facilities such as well-equipped labs, computing resources, and research centers that support various disciplines.",
+    "category": "research"
+  },
+  {
+    "instruction": "What does Vels University offer to foster an inclusive environment?",
+    "context": "",
+    "response": "The university fosters an inclusive environment through programs that promote diversity, equity, and inclusion, supporting students from various backgrounds.",
+    "category": "student life"
+  },
+  {
+    "instruction": "How does Vels University support students with career guidance?",
+    "context": "",
+    "response": "The university provides career guidance through counseling, job fairs, workshops, and an active placement cell that helps students secure internships and jobs.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University offer research fellowships?",
+    "context": "",
+    "response": "Yes, Vels University offers research fellowships to postgraduate and doctoral students, supporting them with financial assistance and research resources.",
+    "category": "research"
+  },
+  {
+    "instruction": "How does Vels University promote ethical research?",
+    "context": "",
+    "response": "The university ensures ethical research practices by establishing a research ethics committee that reviews research proposals and ensures compliance with ethical standards.",
+    "category": "research"
+  },
+  {
+    "instruction": "What kind of networking opportunities are available for Vels University students?",
+    "context": "",
+    "response": "Students have access to networking opportunities through alumni meetups, guest lectures, industry conferences, and events organized by the placement cell.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University offer a degree in Graphic Design?",
+    "context": "",
+    "response": "Yes, the university offers a degree program in Graphic Design, providing students with the skills needed in digital media, branding, and visual communication.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the university's policy on student feedback?",
+    "context": "",
+    "response": "Vels University encourages student feedback through surveys, suggestion boxes, and class evaluations to improve academic programs and student services.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How does the university engage with industry leaders?",
+    "context": "",
+    "response": "The university engages with industry leaders through collaborative research projects, industry visits, guest lectures, and corporate internships for students.",
+    "category": "research"
+  },
+  {
+    "instruction": "What does Vels University offer for creative arts students?",
+    "context": "",
+    "response": "The university offers programs in creative arts, including visual arts, performing arts, and design, with opportunities for students to exhibit and perform.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in the field of data science?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in data science, focusing on areas such as machine learning, big data analytics, and artificial intelligence.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What types of scholarships does Vels University offer?",
+    "context": "",
+    "response": "The university offers various scholarships including merit-based, need-based, and sports scholarships to help students financially.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "How does Vels University support students in their research projects?",
+    "context": "",
+    "response": "Vels University provides resources such as research grants, access to labs, and mentoring by faculty to support students with their research projects.",
+    "category": "research"
+  },
+  {
+    "instruction": "Is there an entrepreneurship development cell at Vels University?",
+    "context": "",
+    "response": "Yes, the university has an Entrepreneurship Development Cell that helps students with business ideas, offering mentorship, resources, and funding opportunities.",
+    "category": "student life"
+  },
+  {
+    "instruction": "How does Vels University prepare students for the job market?",
+    "context": "",
+    "response": "Vels University prepares students for the job market through career counseling, internships, skill development programs, and regular placement drives.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Are there any extracurricular activities organized by Vels University?",
+    "context": "",
+    "response": "Yes, Vels University organizes a wide range of extracurricular activities including cultural events, sports competitions, music and dance performances, and art exhibitions.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in environmental science?",
+    "context": "",
+    "response": "Yes, the university offers programs in environmental science, focusing on sustainability, climate change, and environmental management.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University foster global learning experiences for students?",
+    "context": "",
+    "response": "The university fosters global learning through exchange programs, collaborations with international universities, and internships abroad.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the main benefits of studying at Vels University?",
+    "context": "",
+    "response": "Studying at Vels University offers benefits such as diverse academic programs, strong industry connections, research opportunities, and a vibrant campus life.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University provide assistance with higher education opportunities abroad?",
+    "context": "",
+    "response": "Yes, the university offers guidance and support for students interested in pursuing higher education abroad, including application assistance and test preparation.",
+    "category": "international"
+  },
+  {
+    "instruction": "How does Vels University support students in their career development?",
+    "context": "",
+    "response": "Vels University offers career development programs, including job fairs, resume workshops, interview coaching, and networking opportunities with alumni and industry professionals.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Is there a student mentoring system at Vels University?",
+    "context": "",
+    "response": "Yes, the university has a student mentoring system where senior students mentor juniors, helping them adjust to academic life and providing career advice.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University have a student-run newspaper or magazine?",
+    "context": "",
+    "response": "Yes, the university has a student-run magazine that publishes articles, stories, and artwork created by students, highlighting campus life and academic achievements.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What type of infrastructure does Vels University provide for students?",
+    "context": "",
+    "response": "Vels University offers state-of-the-art infrastructure, including modern classrooms, well-equipped laboratories, libraries, sports facilities, and hostels.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does Vels University integrate innovation into its academic programs?",
+    "context": "",
+    "response": "Vels University integrates innovation into academic programs by encouraging interdisciplinary projects, fostering research culture, and collaborating with industry experts.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have a global alumni network?",
+    "context": "",
+    "response": "Yes, the university has a strong and active alumni network, with graduates working across various industries globally, offering mentorship and career opportunities for current students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the key features of the BTech program at Vels University?",
+    "context": "",
+    "response": "The BTech program at Vels University includes hands-on learning, industry internships, research opportunities, and specializations in fields such as Computer Science, Mechanical, and Civil Engineering.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University provide hostel facilities for students?",
+    "context": "",
+    "response": "Yes, Vels University provides hostel facilities for both male and female students, with well-furnished rooms, recreational areas, and 24/7 security.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does Vels University address mental health and well-being?",
+    "context": "",
+    "response": "The university addresses mental health through counseling services, stress-relief workshops, and wellness programs to support students’ emotional well-being.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University offer any online learning platforms?",
+    "context": "",
+    "response": "Yes, Vels University offers online learning platforms that provide students access to course materials, video lectures, assignments, and interactive tools for remote learning.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What measures does Vels University take to ensure environmental sustainability on campus?",
+    "context": "",
+    "response": "The university practices sustainability by using renewable energy, recycling programs, water conservation initiatives, and promoting eco-friendly practices among students and staff.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University have a placement cell?",
+    "context": "",
+    "response": "Yes, Vels University has a dedicated placement cell that connects students with employers, organizes recruitment drives, and provides career counseling and placement support.",
+    "category": "placements"
+  },
+  {
+    "instruction": "How does Vels University incorporate industry collaboration into its curriculum?",
+    "context": "",
+    "response": "The university collaborates with industries to offer practical training, internships, workshops, and guest lectures from industry experts to ensure the curriculum is industry-relevant.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer a program in journalism?",
+    "context": "",
+    "response": "Yes, the university offers a Bachelor’s program in Journalism and Mass Communication, which includes practical training in media, reporting, and communication skills.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University organize any student exchange programs?",
+    "context": "",
+    "response": "Yes, the university organizes student exchange programs with partner institutions, allowing students to gain international exposure and broaden their academic horizons.",
+    "category": "international"
+  },
+  {
+    "instruction": "What is the reputation of Vels University in the academic community?",
+    "context": "",
+    "response": "Vels University has a strong reputation in the academic community for its high-quality programs, research contributions, and industry partnerships.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students interested in sports?",
+    "context": "",
+    "response": "The university supports sports enthusiasts by providing access to sports facilities, coaching, and opportunities to participate in inter-college and national-level competitions.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University provide any leadership development programs?",
+    "context": "",
+    "response": "Yes, Vels University offers leadership development programs, including workshops, seminars, and leadership training initiatives, to help students develop their leadership potential.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How does Vels University ensure student safety on campus?",
+    "context": "",
+    "response": "Vels University ensures student safety through 24/7 security, CCTV surveillance, emergency response protocols, and a dedicated student safety office.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University offer distance education programs?",
+    "context": "",
+    "response": "Yes, Vels University offers distance education programs in various fields, providing flexible learning options for students who cannot attend regular classes.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University foster a sense of community among students?",
+    "context": "",
+    "response": "The university fosters a sense of community by organizing cultural events, group activities, student clubs, and volunteer opportunities that encourage collaboration and engagement.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer financial aid to students?",
+    "context": "",
+    "response": "Yes, Vels University offers financial aid through scholarships, fee concessions, and education loans for students who need financial assistance to pursue their studies.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "What is the admission process at Vels University?",
+    "context": "",
+    "response": "The admission process at Vels University involves an online application, followed by entrance exams (if applicable), interviews, and document verification for eligibility.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "How does Vels University integrate technology in education?",
+    "context": "",
+    "response": "The university integrates technology in education through smart classrooms, e-learning platforms, online resources, and virtual labs to enhance the learning experience.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have an incubation center for startups?",
+    "context": "",
+    "response": "Yes, Vels University has an incubation center that provides infrastructure, mentorship, and funding for students interested in launching their own startups.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in artificial intelligence?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in artificial intelligence, focusing on machine learning, data science, and AI-based applications in various fields.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What steps does Vels University take to ensure academic integrity?",
+    "context": "",
+    "response": "Vels University ensures academic integrity by implementing strict plagiarism checks, promoting ethical research practices, and educating students about academic honesty.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer internships for engineering students?",
+    "context": "",
+    "response": "Yes, Vels University offers internship opportunities for engineering students with leading companies to gain practical experience and improve their skills.",
+    "category": "placements"
+  },
+  {
+    "instruction": "How does Vels University support women students?",
+    "context": "",
+    "response": "Vels University supports women students by promoting gender equality, offering women-specific scholarships, and creating a safe, inclusive environment for all students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University have a digital library?",
+    "context": "",
+    "response": "Yes, the university has a digital library that provides access to e-books, journals, and research papers across various disciplines.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the job placement statistics at Vels University?",
+    "context": "",
+    "response": "Vels University has a strong placement record, with over 80% of eligible students placed in reputed companies across various sectors.",
+    "category": "placements"
+  },
+  {
+    "instruction": "How does Vels University promote sustainability on campus?",
+    "context": "",
+    "response": "The university promotes sustainability by implementing green initiatives such as waste management, energy conservation, and eco-friendly campus practices.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the core values of Vels University?",
+    "context": "",
+    "response": "The core values of Vels University include academic excellence, innovation, integrity, inclusivity, and social responsibility.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have a career counseling center?",
+    "context": "",
+    "response": "Yes, Vels University has a dedicated career counseling center that helps students with career planning, skill development, and job search strategies.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the admission process for postgraduate programs at Vels University?",
+    "context": "",
+    "response": "The admission process for postgraduate programs involves an online application, entrance exams (if applicable), interviews, and document verification.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University provide accommodation for international students?",
+    "context": "",
+    "response": "Yes, Vels University provides accommodation for international students with special arrangements for their comfort and convenience during their studies.",
+    "category": "international"
+  },
+  {
+    "instruction": "How does Vels University encourage student involvement in research?",
+    "context": "",
+    "response": "The university encourages student involvement in research by providing access to labs, mentoring from faculty, and opportunities to present research at national and international conferences.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does Vels University offer a program in business administration?",
+    "context": "",
+    "response": "Yes, the university offers a Bachelor of Business Administration (BBA) program, which prepares students for leadership roles in various business sectors.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students' mental health?",
+    "context": "",
+    "response": "Vels University provides counseling services, stress management workshops, and peer support systems to help students maintain good mental health and well-being.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What research areas are available at Vels University?",
+    "context": "",
+    "response": "Vels University offers research opportunities in various fields including engineering, business, environmental science, health sciences, and social sciences.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does Vels University have a mentoring program?",
+    "context": "",
+    "response": "Yes, Vels University has a mentoring program where senior students or faculty members guide and support junior students with academic and career advice.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University offer a program in digital marketing?",
+    "context": "",
+    "response": "Yes, Vels University offers a program in digital marketing that covers topics such as SEO, SEM, social media marketing, and online branding strategies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University help students with internships?",
+    "context": "",
+    "response": "Vels University helps students secure internships by providing industry contacts, hosting internship fairs, and offering guidance on resume building and interview preparation.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University offer any exchange programs for students?",
+    "context": "",
+    "response": "Yes, Vels University offers exchange programs with partner universities abroad, giving students the opportunity to study in different cultural and academic environments.",
+    "category": "international"
+  },
+  {
+    "instruction": "What types of sports are available at Vels University?",
+    "context": "",
+    "response": "Vels University offers a wide range of sports including cricket, football, basketball, badminton, tennis, athletics, and swimming, among others.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer a program in cyber security?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in cyber security, equipping students with the skills to tackle modern cyber threats and ensure data protection.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University promote diversity and inclusion?",
+    "context": "",
+    "response": "Vels University promotes diversity and inclusion by offering scholarships for underrepresented groups, organizing cultural events, and fostering a campus environment that celebrates all cultures and backgrounds.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University provide any career development workshops?",
+    "context": "",
+    "response": "Yes, the university regularly organizes career development workshops, covering topics like resume writing, interview skills, networking, and job search strategies.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What are the student clubs and societies available at Vels University?",
+    "context": "",
+    "response": "Vels University offers a variety of student clubs and societies focused on arts, culture, sports, technology, and social service, encouraging students to pursue their interests outside of academics.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in healthcare management?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in healthcare management, covering areas like hospital administration, healthcare policies, and health economics.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students with disabilities?",
+    "context": "",
+    "response": "Vels University supports students with disabilities by providing accessible infrastructure, special accommodations during exams, and a dedicated student support team for personalized assistance.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What kind of internships are available for students at Vels University?",
+    "context": "",
+    "response": "Vels University offers a wide range of internships in various industries including IT, business, healthcare, engineering, media, and education to provide hands-on experience for students.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What type of research funding opportunities are available at Vels University?",
+    "context": "",
+    "response": "Vels University provides research funding through internal grants, industry collaborations, and external scholarships, encouraging innovation and academic exploration.",
+    "category": "research"
+  },
+  {
+    "instruction": "Does Vels University offer any courses in renewable energy?",
+    "context": "",
+    "response": "Yes, Vels University offers courses in renewable energy, focusing on solar, wind, and other sustainable energy technologies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students in building their professional network?",
+    "context": "",
+    "response": "Vels University supports networking through alumni events, industry guest lectures, internships, and professional development workshops.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University provide transportation services for students?",
+    "context": "",
+    "response": "Yes, Vels University provides transportation services, including buses for students, to ensure safe and convenient commuting.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the advantages of pursuing a BTech at Vels University?",
+    "context": "",
+    "response": "The BTech program at Vels University provides industry-focused training, hands-on projects, research opportunities, and strong placement support to prepare students for successful careers.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer a program in fashion design?",
+    "context": "",
+    "response": "Yes, Vels University offers a program in fashion design, where students can explore fashion theory, garment construction, and creative design.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the quality of teaching faculty at Vels University?",
+    "context": "",
+    "response": "Vels University has a highly qualified faculty with many professors holding advanced degrees, industry experience, and a commitment to delivering high-quality education.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University provide any student exchange opportunities?",
+    "context": "",
+    "response": "Yes, Vels University offers student exchange opportunities with partner universities around the world to help students experience different cultures and educational systems.",
+    "category": "international"
+  },
+  {
+    "instruction": "How does Vels University promote social responsibility among students?",
+    "context": "",
+    "response": "Vels University encourages social responsibility through community service programs, social outreach activities, and by fostering an awareness of environmental and social issues.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University have any programs in robotics?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in robotics, focusing on areas such as automation, robot design, and artificial intelligence applications.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What measures does Vels University take to ensure campus safety?",
+    "context": "",
+    "response": "Vels University ensures campus safety through 24/7 security, surveillance systems, emergency protocols, and regular safety awareness programs.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does Vels University enhance the employability of its graduates?",
+    "context": "",
+    "response": "Vels University enhances employability through internships, industrial training, soft skills development, job placement support, and industry-aligned curriculum.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University provide any opportunities for students to study abroad?",
+    "context": "",
+    "response": "Yes, Vels University provides opportunities for students to study abroad through exchange programs and international internships with partner institutions.",
+    "category": "international"
+  },
+  {
+    "instruction": "What is the student-teacher ratio at Vels University?",
+    "context": "",
+    "response": "Vels University maintains a favorable student-teacher ratio, ensuring personalized attention and better academic engagement for students.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students interested in research?",
+    "context": "",
+    "response": "Vels University supports research through research centers, faculty guidance, funding opportunities, and the encouragement of interdisciplinary projects.",
+    "category": "research"
+  },
+  {
+    "instruction": "Are there any leadership programs offered at Vels University?",
+    "context": "",
+    "response": "Yes, Vels University offers leadership development programs, including workshops, seminars, and hands-on projects designed to build leadership skills among students.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the campus culture like at Vels University?",
+    "context": "",
+    "response": "The campus culture at Vels University is vibrant, with a strong focus on academics, extracurricular activities, and fostering a supportive community for students.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in animation or multimedia?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in animation and multimedia, covering areas such as 3D modeling, visual effects, video editing, and digital media production.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University assist with career advancement post-graduation?",
+    "context": "",
+    "response": "Vels University assists with career advancement through alumni networks, industry collaborations, job fairs, career counseling, and continuing education opportunities.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University have any programs in hospitality management?",
+    "context": "",
+    "response": "Yes, Vels University offers a program in hospitality management, which prepares students for roles in hotel management, event planning, and tourism industries.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What types of career services are available at Vels University?",
+    "context": "",
+    "response": "Vels University provides career services such as resume writing workshops, interview coaching, job placement support, and career counseling to help students achieve their career goals.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in agricultural science?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in agricultural science, focusing on sustainable farming practices, crop management, and agricultural technology.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the campus like at Vels University?",
+    "context": "",
+    "response": "The Vels University campus is modern and well-equipped with academic buildings, sports facilities, libraries, hostels, and a range of amenities to ensure a comfortable student experience.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University have any specialized centers for research?",
+    "context": "",
+    "response": "Yes, Vels University has specialized research centers in various fields, including engineering, health sciences, environmental studies, and business research.",
+    "category": "research"
+  },
+  {
+    "instruction": "How does Vels University support students' entrepreneurial ventures?",
+    "context": "",
+    "response": "Vels University supports entrepreneurial ventures through an incubation center, mentorship programs, funding opportunities, and startup workshops to help students launch their businesses.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer any part-time courses?",
+    "context": "",
+    "response": "Yes, Vels University offers part-time courses in several disciplines, allowing working professionals and part-time learners to pursue their education.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the process to apply for a PhD program at Vels University?",
+    "context": "",
+    "response": "The process to apply for a PhD program at Vels University involves submitting an online application, followed by an entrance exam, interview, and research proposal evaluation.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University provide on-campus housing?",
+    "context": "",
+    "response": "Yes, Vels University provides on-campus housing facilities with separate hostels for men and women, offering comfortable living arrangements for students.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the benefits of the Vels University alumni network?",
+    "context": "",
+    "response": "The Vels University alumni network offers career networking opportunities, mentorship, and support for job placements, as well as social and professional events for alumni.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University have a library with access to digital resources?",
+    "context": "",
+    "response": "Yes, Vels University has a well-equipped library with access to both physical and digital resources, including e-books, journals, and research databases.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "How does Vels University support students in the field of performing arts?",
+    "context": "",
+    "response": "Vels University supports students in performing arts through specialized programs, workshops, performance opportunities, and student clubs focused on music, dance, and theater.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What kind of career opportunities are available for graduates of Vels University?",
+    "context": "",
+    "response": "Graduates of Vels University have access to career opportunities in various industries including technology, business, healthcare, education, and media, with strong placement support from the university.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University have a student grievance cell?",
+    "context": "",
+    "response": "Yes, Vels University has a student grievance cell that addresses and resolves student issues related to academics, campus facilities, and other concerns.",
+    "category": "student services"
+  },
+  {
+    "instruction": "How are exams conducted at Vels University?",
+    "context": "",
+    "response": "Exams at Vels University are conducted as per the university's academic schedule, with a combination of written exams, online assessments, and practical exams depending on the program.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in environmental science?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in environmental science, focusing on sustainable environmental practices, pollution control, and ecological conservation.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University engage students in extracurricular activities?",
+    "context": "",
+    "response": "Vels University engages students in extracurricular activities through sports, cultural events, student clubs, and volunteer programs that encourage teamwork and personal growth.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What is the student retention rate at Vels University?",
+    "context": "",
+    "response": "Vels University has a high student retention rate, supported by quality education, student engagement, and continuous academic and personal support.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have any courses in law?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in law, including undergraduate and postgraduate courses in various branches of legal studies, preparing students for legal careers.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the role of faculty members in the academic success of students at Vels University?",
+    "context": "",
+    "response": "Faculty members at Vels University play a key role in students' academic success by providing mentorship, guiding research, and offering personalized attention to enhance learning outcomes.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any courses in finance or accounting?",
+    "context": "",
+    "response": "Yes, Vels University offers programs in finance and accounting, preparing students for careers in corporate finance, auditing, banking, and financial analysis.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What international universities does Vels University have collaborations with?",
+    "context": "",
+    "response": "Vels University has collaborations with several international universities for student exchange programs, research partnerships, and joint degree opportunities.",
+    "category": "international"
+  },
+  {
+    "instruction": "Does Vels University have a counseling center for students?",
+    "context": "",
+    "response": "Yes, Vels University has a counseling center that offers mental health support, career counseling, and guidance for students facing personal or academic challenges.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the top recruiters for Vels University graduates?",
+    "context": "",
+    "response": "Top recruiters for Vels University graduates include major companies in the IT, engineering, finance, healthcare, and education sectors, such as Infosys, TCS, Cognizant, and Deloitte.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in hotel management?",
+    "context": "",
+    "response": "Yes, Vels University offers a program in hotel management, covering areas such as hospitality operations, event management, and tourism industry trends.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support student entrepreneurship?",
+    "context": "",
+    "response": "Vels University supports student entrepreneurship through an incubation center, networking opportunities, mentorship from industry professionals, and access to funding for startups.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University have an exchange program for students in the field of business?",
+    "context": "",
+    "response": "Yes, Vels University offers an exchange program for business students, allowing them to gain global exposure and study at partner universities abroad.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the key focus areas in Vels University's MBA program?",
+    "context": "",
+    "response": "The MBA program at Vels University focuses on management skills, leadership development, marketing, finance, human resources, and entrepreneurship to prepare students for high-level roles.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University have a sports complex?",
+    "context": "",
+    "response": "Yes, Vels University has a sports complex with facilities for various sports such as cricket, football, basketball, tennis, and athletics, promoting physical fitness among students.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University have any student exchange programs with European universities?",
+    "context": "",
+    "response": "Yes, Vels University has student exchange programs with several European universities, offering students an opportunity to study abroad and experience diverse educational cultures.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the career prospects for students graduating from Vels University?",
+    "context": "",
+    "response": "Graduates of Vels University have strong career prospects, with many students securing positions in top companies, pursuing higher education, or starting their own ventures.",
+    "category": "placements"
+  },
+  {
+    "instruction": "How does Vels University support students pursuing careers in data science?",
+    "context": "Data science is an emerging field with high demand in various industries, and universities are increasingly focusing on providing the necessary education and resources to prepare students for this career path.",
+    "response": "Vels University supports students pursuing careers in data science through specialized programs, hands-on training, industry collaborations, and exposure to the latest tools and technologies in the field.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer scholarships for international students?",
+    "context": "Scholarships play a crucial role in making education accessible to students from different financial backgrounds, especially for those studying abroad.",
+    "response": "Yes, Vels University offers scholarships for international students, helping them to manage tuition fees and other academic expenses while studying in India.",
+    "category": "international"
+  },
+  {
+    "instruction": "How does Vels University help students with internships?",
+    "context": "Internships are an important way for students to gain practical experience in their field of study and increase their employability after graduation.",
+    "response": "Vels University helps students secure internships by partnering with industry leaders, offering placement assistance, and providing guidance on how to make the most of internship opportunities.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What are the advantages of studying engineering at Vels University?",
+    "context": "Engineering is a popular course of study, and students often consider the curriculum, faculty, infrastructure, and placement opportunities when choosing a university.",
+    "response": "Studying engineering at Vels University offers hands-on learning experiences, access to state-of-the-art labs and facilities, exposure to industry-relevant projects, and strong placement support in leading tech companies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any joint degree programs with international institutions?",
+    "context": "Joint degree programs with international universities provide students with an opportunity to study abroad and earn degrees that are recognized globally.",
+    "response": "Yes, Vels University offers joint degree programs in collaboration with international institutions, allowing students to gain exposure to global academic standards and enhance their career prospects.",
+    "category": "international"
+  },
+  {
+    "instruction": "How does Vels University facilitate cultural diversity on campus?",
+    "context": "Cultural diversity enriches the student experience, helping students to learn from different perspectives and preparing them for global careers.",
+    "response": "Vels University promotes cultural diversity through international student programs, cultural exchange events, and student clubs that celebrate various cultures and traditions.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University have a strong alumni network?",
+    "context": "An active alumni network can provide valuable connections, mentorship, and job opportunities for students after graduation.",
+    "response": "Yes, Vels University has a strong alumni network that provides career guidance, networking opportunities, and support for students and graduates, helping them connect with industry professionals.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What is the process for getting a hostel room at Vels University?",
+    "context": "Hostel accommodations are often in high demand, and universities typically have a structured process for allocating rooms to students based on availability and specific criteria.",
+    "response": "Students can apply for a hostel room at Vels University by filling out an application form during the admission process. The rooms are allocated on a first-come, first-served basis, and priority is given to outstation students.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University offer programs for working professionals?",
+    "context": "Working professionals often look for flexible learning options, such as part-time or online programs, to further their education without affecting their jobs.",
+    "response": "Yes, Vels University offers part-time and online programs for working professionals, allowing them to enhance their skills and knowledge while continuing to work.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the career support services available at Vels University?",
+    "context": "Career support services are essential for helping students transition from academic life to the professional world, including job placement, career counseling, and skill-building workshops.",
+    "response": "Vels University offers comprehensive career support services, including career counseling, resume-building workshops, interview preparation, job fairs, and placement assistance to help students land jobs in top companies.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What types of extracurricular activities are offered at Vels University?",
+    "context": "Extracurricular activities play an important role in developing a student's overall personality, leadership skills, and ability to work in teams.",
+    "response": "Vels University offers a wide range of extracurricular activities including sports, cultural events, student clubs, debates, and leadership programs to foster a well-rounded student experience.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer courses in artificial intelligence and machine learning?",
+    "context": "Artificial intelligence and machine learning are rapidly growing fields with high demand for skilled professionals, making them popular areas of study in tech education.",
+    "response": "Yes, Vels University offers specialized courses in artificial intelligence and machine learning, providing students with the skills needed to excel in these high-demand fields.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University ensure the quality of its academic programs?",
+    "context": "Maintaining academic quality is essential for universities to stay competitive and provide students with a high-quality education that meets industry standards.",
+    "response": "Vels University ensures the quality of its academic programs through regular curriculum updates, accreditation by national and international bodies, faculty development programs, and industry collaborations to align education with real-world needs.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University provide opportunities for students to participate in conferences?",
+    "context": "Participating in academic and industry conferences can enhance students' learning and provide them with networking opportunities in their chosen fields.",
+    "response": "Yes, Vels University encourages students to participate in academic and industry conferences by providing financial support, guidance on submitting papers, and opportunities to present their research.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the job placement rates at Vels University?",
+    "context": "Job placement rates are an important indicator of a university's success in preparing students for the workforce and helping them secure employment after graduation.",
+    "response": "Vels University boasts high job placement rates, with many students securing jobs in top companies across various sectors, thanks to the university's industry connections, internship programs, and dedicated placement cell.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University have a campus clinic or healthcare services?",
+    "context": "On-campus healthcare services are essential for ensuring the well-being of students and staff, offering medical care in case of emergencies or routine health needs.",
+    "response": "Yes, Vels University has a campus clinic that provides healthcare services to students and staff, including basic medical treatment, first aid, and regular health check-ups.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What steps does Vels University take to maintain environmental sustainability on campus?",
+    "context": "Environmental sustainability is a key concern for modern universities, with efforts aimed at reducing carbon footprints, managing waste, and promoting eco-friendly practices on campus.",
+    "response": "Vels University promotes environmental sustainability through initiatives such as waste management, energy conservation, rainwater harvesting, and the use of eco-friendly materials in campus infrastructure.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University offer any programs related to health sciences?",
+    "context": "Health sciences programs are designed for students interested in healthcare careers, including medicine, nursing, public health, and biomedical sciences.",
+    "response": "Yes, Vels University offers programs in health sciences, including courses in nursing, medical laboratory technology, and healthcare management, preparing students for diverse careers in the healthcare industry.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer programs in media and communication?",
+    "context": "Media and communication studies provide students with the knowledge and skills to pursue careers in journalism, public relations, advertising, and digital media.",
+    "response": "Yes, Vels University offers programs in media and communication, covering subjects such as journalism, digital media, advertising, and public relations, helping students prepare for dynamic careers in the media industry.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University promote leadership among students?",
+    "context": "Leadership skills are vital for students as they prepare to enter the workforce and take on roles that require management and decision-making.",
+    "response": "Vels University promotes leadership through various programs such as leadership workshops, mentoring, student clubs, and opportunities to lead academic and extracurricular initiatives.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What is the approach to teaching at Vels University?",
+    "context": "The teaching approach at a university can greatly influence the learning experience, with some institutions emphasizing practical learning, while others focus on theory.",
+    "response": "Vels University adopts a student-centered teaching approach, combining lectures, practical sessions, industry internships, research projects, and interactive learning to provide a holistic education.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students interested in entrepreneurship?",
+    "context": "Entrepreneurship programs equip students with the skills and knowledge needed to start their own businesses and turn ideas into successful ventures.",
+    "response": "Vels University supports student entrepreneurship through its incubation center, mentorship programs, access to funding, and opportunities to network with industry leaders and investors.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What are the key highlights of Vels University's MBA program?",
+    "context": "MBA programs are designed to equip students with leadership, management, and business skills necessary for high-level roles in various industries.",
+    "response": "Vels University's MBA program highlights include a strong focus on leadership development, business strategy, entrepreneurship, and industry collaboration, providing students with the skills needed to excel in managerial roles.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any courses in robotics?",
+    "context": "Robotics is a rapidly growing field that combines mechanical engineering, electrical engineering, and computer science to design and create intelligent machines.",
+    "response": "Yes, Vels University offers courses in robotics, providing students with theoretical knowledge and practical skills in areas such as automation, control systems, and robot design.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the role of the placement cell at Vels University?",
+    "context": "Placement cells are essential in bridging the gap between students and the job market, assisting with internships, interviews, and job placements.",
+    "response": "The placement cell at Vels University plays a key role in helping students secure internships and job placements by organizing recruitment drives, conducting mock interviews, and offering career counseling.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University offer any industry collaborations for research?",
+    "context": "Industry collaborations are crucial for conducting research that is relevant to real-world problems and ensuring that students gain practical experience while studying.",
+    "response": "Yes, Vels University has collaborations with various industries for research projects, providing students with opportunities to work on industry-driven challenges and gain practical insights.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What sports facilities are available at Vels University?",
+    "context": "Sports facilities are an important aspect of student life, offering opportunities for physical fitness, recreation, and team-building.",
+    "response": "Vels University has extensive sports facilities, including outdoor fields for cricket, football, and volleyball, as well as indoor courts for basketball and badminton, promoting a healthy lifestyle among students.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University have a student council?",
+    "context": "Student councils are integral in providing a voice for students, organizing events, and fostering leadership skills within the student body.",
+    "response": "Yes, Vels University has an active student council that represents students' interests, organizes events, and contributes to decision-making processes related to campus life.",
+    "category": "student life"
+  },
+  {
+    "instruction": "What is the application process for international students at Vels University?",
+    "context": "International students typically follow a specific application process involving submission of documents, language proficiency tests, and visa requirements.",
+    "response": "The application process for international students at Vels University includes submitting an online application form, providing academic transcripts, language proficiency test scores (if applicable), and fulfilling visa requirements for studying in India.",
+    "category": "international"
+  },
+  {
+    "instruction": "Does Vels University offer any student exchange programs?",
+    "context": "Student exchange programs allow students to study abroad and experience different academic environments, which can enhance their global perspective and cultural awareness.",
+    "response": "Yes, Vels University offers student exchange programs with partner universities in various countries, providing students with the opportunity to study abroad and gain international experience.",
+    "category": "international"
+  },
+  {
+    "instruction": "What are the advantages of studying at Vels University?",
+    "context": "When choosing a university, students consider factors such as academic quality, campus facilities, faculty expertise, and career prospects.",
+    "response": "Studying at Vels University offers a combination of quality education, excellent faculty, state-of-the-art facilities, industry connections, and strong placement support, making it a great choice for students seeking academic and career growth.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer online learning options?",
+    "context": "Online learning has become increasingly popular, offering flexibility for students who may not be able to attend traditional classes due to work or other commitments.",
+    "response": "Yes, Vels University offers online learning options in various programs, allowing students to pursue their education at their own pace while balancing other commitments.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support student entrepreneurship?",
+    "context": "Entrepreneurship programs aim to equip students with the skills needed to launch and run their own businesses, often providing access to mentorship, funding, and networks.",
+    "response": "Vels University supports student entrepreneurship through its incubation center, mentorship programs, startup competitions, and access to funding, helping students turn their business ideas into successful ventures.",
+    "category": "student life"
+  },
+  {
+    "instruction": "How does Vels University promote social responsibility among students?",
+    "context": "Universities can play a key role in fostering a sense of social responsibility, encouraging students to participate in community service and awareness programs.",
+    "response": "Vels University promotes social responsibility through initiatives such as social service clubs, awareness campaigns, and volunteer opportunities, encouraging students to contribute to society and address important social issues.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University have a dedicated innovation lab?",
+    "context": "Innovation labs provide students with the resources and tools to experiment with new ideas, conduct research, and develop prototypes in various fields of technology and design.",
+    "response": "Yes, Vels University has a dedicated innovation lab equipped with modern tools and technologies to foster creativity and help students work on innovative projects and research.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University provide transportation facilities for students?",
+    "context": "Transportation facilities are essential for students who live off-campus or in outlying areas, providing safe and convenient travel options to and from the university.",
+    "response": "Yes, Vels University provides transportation facilities for students, including bus services from various parts of the city, ensuring that students can commute easily and safely to campus.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What are the academic requirements for admission to Vels University?",
+    "context": "Each program at a university typically has specific academic requirements, such as minimum grades or standardized test scores, to determine eligibility for admission.",
+    "response": "The academic requirements for admission to Vels University vary by program. Generally, students must have completed the relevant educational qualifications with the required percentage of marks or an equivalent score in entrance exams (if applicable).",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University have a research and development department?",
+    "context": "Research and development departments at universities focus on advancing knowledge in various fields, conducting research projects, and collaborating with industries to solve real-world problems.",
+    "response": "Yes, Vels University has a dedicated research and development department that encourages faculty and students to engage in research projects, collaborate with industries, and contribute to innovation in their respective fields.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the focus of the undergraduate programs at Vels University?",
+    "context": "Undergraduate programs are foundational in a student's academic journey, typically offering a mix of theoretical knowledge and practical skills necessary for entry-level positions in various fields.",
+    "response": "Undergraduate programs at Vels University focus on providing a strong academic foundation, combining theory with practical application, and preparing students for successful careers in their chosen fields.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students' mental health?",
+    "context": "Mental health support is crucial in maintaining students' well-being, especially given the academic pressure and personal challenges they may face during their studies.",
+    "response": "Vels University offers mental health support through counseling services, workshops, stress management programs, and student wellness initiatives aimed at promoting emotional and psychological well-being.",
+    "category": "student services"
+  },
+  {
+    "instruction": "Does Vels University have a campus-wide Wi-Fi network?",
+    "context": "Access to Wi-Fi is essential for students to conduct research, access academic materials, and stay connected with peers and professors.",
+    "response": "Yes, Vels University has a campus-wide Wi-Fi network that provides students with seamless internet access throughout the campus, ensuring that they can stay connected for academic and personal needs.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "What type of research opportunities are available to students at Vels University?",
+    "context": "Research opportunities allow students to explore areas of interest, contribute to the academic community, and gain hands-on experience in their chosen field of study.",
+    "response": "Vels University offers a wide range of research opportunities, with students being encouraged to participate in faculty-led research projects, collaborate with industries, and present their work at conferences.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What are the key features of Vels University's B.Tech program?",
+    "context": "A B.Tech program is designed to prepare students for careers in engineering, offering courses in core engineering disciplines along with practical experience.",
+    "response": "Vels University's B.Tech program is known for its strong academic curriculum, practical training, exposure to industry projects, and emphasis on developing technical skills in fields like computer science, mechanical, civil, and electronics engineering.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University provide any career counseling services?",
+    "context": "Career counseling helps students understand their strengths, explore career options, and prepare for the job market, which is essential for their professional growth.",
+    "response": "Yes, Vels University provides career counseling services, offering one-on-one sessions, workshops, and assessments to help students plan their career paths and enhance their employability.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the options for student accommodation at Vels University?",
+    "context": "Student accommodation options vary in terms of amenities, location, and affordability, and many universities provide on-campus hostels for students who are far from home.",
+    "response": "Vels University offers on-campus hostel accommodations with modern amenities, including Wi-Fi, security, and access to recreational facilities. Separate hostels are available for male and female students.",
+    "category": "facilities"
+  },
+  {
+    "instruction": "Does Vels University offer any online certification programs?",
+    "context": "Online certification programs are becoming increasingly popular as they allow students to gain new skills and knowledge at their own pace, without the need to attend traditional classes.",
+    "response": "Yes, Vels University offers a range of online certification programs in areas such as data science, digital marketing, business analytics, and programming, enabling students to enhance their skills remotely.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the student-teacher ratio at Vels University?",
+    "context": "The student-teacher ratio is an important indicator of the amount of personal attention a student is likely to receive in their academic journey, influencing the overall learning experience.",
+    "response": "Vels University maintains a favorable student-teacher ratio, ensuring that students receive personalized attention, effective communication, and ample opportunities for interaction with faculty members.",
+    "category": "academics"
+  },
+  {
+    "instruction": "How does Vels University support students' career development?",
+    "context": "Career development programs help students build the necessary skills and networks to succeed in the workforce, including resume writing, job search strategies, and interview preparation.",
+    "response": "Vels University supports career development through workshops, guest lectures, industry visits, internships, and placement drives. Students also have access to career counseling, skill-building sessions, and networking opportunities.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Are there any industry collaborations for Vels University's engineering students?",
+    "context": "Industry collaborations help students gain practical knowledge and insights into the real-world applications of their studies, enhancing their employability and readiness for the workforce.",
+    "response": "Yes, Vels University has several industry collaborations for its engineering students, providing opportunities for internships, live projects, workshops, and campus placements with leading tech companies.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any programs in the field of biotechnology?",
+    "context": "Biotechnology is a rapidly growing field with applications in health, agriculture, and environmental sciences, and universities offer specialized programs to prepare students for careers in this sector.",
+    "response": "Yes, Vels University offers programs in biotechnology, combining theoretical knowledge with laboratory work to prepare students for careers in research, healthcare, agriculture, and the pharmaceutical industry.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What types of extracurricular clubs are available for students at Vels University?",
+    "context": "Extracurricular clubs and organizations provide students with opportunities to develop leadership, teamwork, and creative skills outside of the classroom, while also fostering a sense of community on campus.",
+    "response": "Vels University has a variety of student clubs, including cultural clubs, technical societies, sports teams, music and dance groups, and clubs focused on social responsibility, ensuring that students have ample opportunities to engage in extracurricular activities.",
+    "category": "student life"
+  },
+  {
+    "instruction": "Does Vels University have a policy for student internships?",
+    "context": "Internships provide students with valuable real-world experience, and universities often have policies in place to support students in securing internships and making the most of these opportunities.",
+    "response": "Yes, Vels University has a dedicated policy to support student internships, including industry collaborations, an internship cell to guide students, and opportunities for internships as part of academic programs.",
+    "category": "placements"
+  },
+  {
+    "instruction": "What is the research focus of Vels University's science departments?",
+    "context": "Science departments at universities typically focus on areas of research that contribute to advancements in fields such as physics, chemistry, biology, and environmental science.",
+    "response": "Vels University's science departments focus on research in areas such as renewable energy, environmental science, biotechnology, material science, and nanotechnology, aiming to contribute to scientific knowledge and real-world applications.",
+    "category": "academics"
+  },
+  {
+    "instruction": "Does Vels University offer any exchange programs for engineering students?",
+    "context": "Exchange programs give engineering students the chance to study at partner universities abroad, helping them to gain international experience and exposure to different educational systems.",
+    "response": "Yes, Vels University offers exchange programs for engineering students, providing opportunities to study at partner institutions across the globe, gain international exposure, and develop a global perspective on engineering challenges.",
+    "category": "international"
+  },
+  {
+    "instruction": "How does Vels University incorporate technology in education?",
+    "context": "Technology plays an increasingly important role in modern education, providing new ways for students to access learning materials, collaborate, and gain hands-on experience.",
+    "response": "Vels University incorporates technology into education through online learning platforms, digital libraries, virtual classrooms, interactive whiteboards, and the use of software tools in various academic programs.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the fee structure for international students at Vels University?",
+    "context": "Fee structures for international students often differ from those for domestic students, considering factors like the cost of living and additional services offered to international students.",
+    "response": "The fee structure for international students at Vels University is higher than that for domestic students, and it includes tuition fees, hostel charges, and other miscellaneous expenses. The university also offers fee waivers and scholarships for eligible students.",
+    "category": "international"
+  },
+  {
+    "instruction": "Does Vels University offer any programs related to fashion design?",
+    "context": "Fashion design programs teach students the skills required to design clothing and accessories, combining creativity with practical knowledge of textiles, patterns, and garment construction.",
+    "response": "Yes, Vels University offers programs in fashion design, providing students with the knowledge and skills to create innovative designs while understanding the technical and business aspects of the fashion industry.",
+    "category": "academics"
+  },
+  {
+    "instruction": "What is the importance of the internship program at Vels University?",
+    "context": "Internships offer students the opportunity to gain work experience, develop practical skills, and build a professional network that can be beneficial when looking for a full-time job after graduation.",
+    "response": "The internship program at Vels University is crucial in providing students with real-world experience, enhancing their employability, and helping them apply the theoretical knowledge gained in their academic programs to practical scenarios.",
+    "category": "placements"
+  },
+  {
+    "instruction": "Does Vels University provide mentorship to its students?",
+    "context": "Mentorship programs pair students with experienced professionals who can guide them in their academic and career development, providing valuable insights and advice.",
+    "response": "Yes, Vels University provides mentorship programs where students are paired with faculty members or industry professionals who offer guidance on academic matters, career planning, and personal development.",
+    "category": "student services"
+  },
+  {
+    "instruction": "What are the admission requirements for the MBA program at Vels University?",
+    "context": "MBA programs have specific admission requirements, such as a relevant undergraduate degree, entrance exam scores, and sometimes work experience or interviews.",
+    "response": "To be admitted to the MBA program at Vels University, candidates must have a relevant undergraduate degree, a valid score in the university's entrance exam (or a recognized entrance exam like CAT/MAT), and undergo a personal interview.",
+    "category": "admissions"
+  },
+  {
+    "instruction": "Does Vels University have a diversity policy for international students?",
+    "context": "Diversity policies ensure that international students are welcomed, supported, and provided with equal opportunities in terms of education, accommodation, and student life.",
+    "response": "Yes, Vels University has a diversity policy for international students, promoting inclusivity, cultural exchange, and support services that help international students feel welcome and integrate smoothly into campus life.",
+    "category": "international"
+  }
+    
+]
