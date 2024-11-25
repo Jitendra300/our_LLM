@@ -15,7 +15,7 @@ I have fine-tuned the TinyLlama LLM to our custom dataset [__dataset.json__]. We
 Here are few responses of the model:<br>
 ![Why Vels University](/images/special_about_vels_RESPONSE.png)<br>
 ![Location of Vels University](/images/location_RESPONSE.png)<br>
-![Infrastruce of Vels University](/images/infrastruce_RESPONSE.png)<br>
+![Infrastruce of Vels University](/images/infrastructure_RESPONSE.png)<br>
 ![Courses Provided](/images/courses_provided_RESPONSE.png)<br>
 <br>
 You can see other Responses of the model in /images directory.
@@ -24,8 +24,12 @@ You can see other Responses of the model in /images directory.
 If you wanna try this then check out: https://huggingface.co/ClaudeRitchie/tinyllama-vels-v1 This is the fine-tuned model.
 
 # Future Outline:
-I am looking out to train the llama2 model on my custom dataset. And also I need to expand the dataset to about 10000 examples. Need to train it on A100 GPU for atleast about 60 epochs.
-    
+* Fine-tune Llama2 instead of Tinyllama [or better go with Llama3]
+* Try a larger dataset with atleast 10000 examples
+* Run on a larger GPU like A100 to train the model.
+* Train it for more epochs
+* Keep the max_token to a higher number instead of a mere 100.
+
 # Opensource Projects used:
 * TinyLlama: https://github.com/jzhang38/TinyLlama
 
