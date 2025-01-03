@@ -1,0 +1,2 @@
+def getResponse():
+    return True
